@@ -11,10 +11,9 @@ Welcome to my GitHub profile and today is Monday, 12 August, 23:12 CEST (updated
 ## Current Projects
 
 
-## Connect with Me
-
-- [LinkedIn](https:&#x2F;&#x2F;www.linkedin.com&#x2F;in&#x2F;mathieu-roche-efrei&#x2F;)
-- [CV](https:&#x2F;&#x2F;github.com&#x2F;Datharr&#x2F;Datharr&#x2F;blob&#x2F;main&#x2F;assets&#x2F;CV-EN.pdf)
+<h3>Where to find me</h3>
+<p><a href="https://github.com/Datharr" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Guibz16" target="_blank"></a> <a href="https://www.linkedin.com/in/mathieu-roche-efrei/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@th.guibert" target="_blank">
+</p>
 
 ---
 
@@ -30,8 +29,7 @@ Bienvenue sur mon profil GitHub, et nous sommes le lundi 12 août à 23:12 UTC+2
 ## Projets en cours
 
 
-## Contactez-moi
-
-- [LinkedIn](https:&#x2F;&#x2F;www.linkedin.com&#x2F;in&#x2F;mathieu-roche-efrei&#x2F;)
-- [CV](https:&#x2F;&#x2F;github.com&#x2F;Datharr&#x2F;Datharr&#x2F;blob&#x2F;main&#x2F;assets&#x2F;CV-FR.pdf)
+<h3>Where to find me</h3>
+<p><a href="https://github.com/Datharr" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Guibz16" target="_blank"></a> <a href="https://www.linkedin.com/in/mathieu-roche-efrei/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@th.guibert" target="_blank">
+</p>
 
