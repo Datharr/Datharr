@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile and today is Monday, 12 August at 19:53 CEST. I'm Mathieu, driven by the ever-evolving challenges of cybersecurity, I am a Master's student in Cybersecurity at EFREI Paris. My strong background in computer engineering with a specialization in cybersecurity fuels my passion for solving complex problems and protecting systems from emerging threats.
+Welcome to my GitHub profile. I'm Mathieu, driven by the ever-evolving challenges of cybersecurity, I am a Master's student in Cybersecurity at EFREI Paris. My strong background in computer engineering with a specialization in cybersecurity fuels my passion for solving complex problems and protecting systems from emerging threats.
 
 
 ## What I Do
@@ -22,7 +22,7 @@ Welcome to my GitHub profile and today is Monday, 12 August at 19:53 CEST. I'm M
 
 # Bonjour ! 👋
 
-Bienvenue sur mon profil GitHub, et nous sommes le lundi 12 août à 19:53 UTC+2. Je suis Mathieu, étudiant en Master Cybersécurité à l'EFREI Paris, je suis passionné par les défis en constante évolution de ce domaine dynamique. Doté d'une solide formation en ingénierie informatique spécialisée en cybersécurité, je suis motivé par la résolution de problèmes complexes et la protection des systèmes informatiques contre les menaces émergentes.
+Bienvenue sur mon profil GitHub. Je suis Mathieu, étudiant en Master Cybersécurité à l'EFREI Paris, je suis passionné par les défis en constante évolution de ce domaine dynamique. Doté d'une solide formation en ingénierie informatique spécialisée en cybersécurité, je suis motivé par la résolution de problèmes complexes et la protection des systèmes informatiques contre les menaces émergentes.
 
 ## Ce que je fais
 
