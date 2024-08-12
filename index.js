@@ -38,7 +38,8 @@ let DATA = {
     }
   ],
   linkedin: "https://www.linkedin.com/in/mathieu-roche-efrei/",
-  website: "https://www.efrei.fr/"
+  cv_en: "https://github.com/Datharr/Datharr/blob/main/assets/CV-EN.pdf",
+  cv_fr: "https://github.com/Datharr/Datharr/blob/main/assets/CV-FR.pdf"
 };
 
 function generateReadMe() {
