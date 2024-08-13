@@ -64,7 +64,7 @@ This game features various characteristics and options that make for an engaging
   <a href="mailto:mathieu.roche@efrei.net" target="_blank">
     <img alt="Outlook" src="https://img.shields.io/badge/Outlook-%230077B5.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
-   <a href="https://github.com/Datharr/Datharr/assets/CV-EN" target="_blank">
+   <a href="https://github.com/Datharr/Datharr/assets/CV-EN.pdf" target="_blank">
     <img alt="CV" src="https://img.shields.io/badge/CV-%23000000.svg?&style=for-the-badge&logo=resume&logoColor=white" />
   </a>
 </p>
