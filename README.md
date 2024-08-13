@@ -10,7 +10,8 @@ Welcome to my GitHub profile and today is Tuesday, 13 August, 11:13 CEST (update
 
 ## Current Projects
 
-### **🔎 Alibi 🔍**
+### **🔎 Alibi 🔍** Vue.js
+<img src="https://github.com/Datharr/Datharr/blob/main/assets/Alibi_code.png" alt="Alibi Code Language" style="width: 300px; height: auto; margin-right: 20px; border: 10px solid #888;"/>
 Available on iOS & Online, up to 4 players 
 Suddenly, you and your friend find yourselves accused of murder! With just 60 seconds to establish and memorize your alibi, you'll need to think quickly and act fast before facing the judge!
 
@@ -30,6 +31,7 @@ Suddenly, you and your friend find yourselves accused of murder! With just 60 se
 
 
 ### 🎯 **Tower Defense** 🎯
+<img src="https://github.com/Datharr/Datharr/blob/main/assets/TD_code.png" alt="TD Code Language" style="width: 300px; height: auto; margin-right: 20px; border: 10px solid #888;"/>
 This game features various characteristics and options that make for an engaging and strategic experience. Your goal is to prevent monsters from reaching the end of the path by strategically placing and upgrading towers.
 
 <img src="https://github.com/Datharr/TowerDefense/blob/main/preview.jpg" alt="Actual Gameplay" style="float: right; width: 350px; height: auto; margin-left: 20px;"/>
