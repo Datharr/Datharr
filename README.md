@@ -10,7 +10,7 @@ Welcome to my GitHub profile and today is Tuesday, 13 August, 11:13 CEST (update
 
 ## Current Projects
 
-### **🔎 Alibi 🔍** Vue.js
+### **🔎 Alibi 🔍**
 <img src="https://github.com/Datharr/Datharr/blob/main/assets/Alibi_code.png" alt="Alibi Code Language" style="width: 300px; height: auto; margin-right: 20px; border: 10px solid #888;"/>
 Available on iOS & Online, up to 4 players 
 Suddenly, you and your friend find yourselves accused of murder! With just 60 seconds to establish and memorize your alibi, you'll need to think quickly and act fast before facing the judge!
