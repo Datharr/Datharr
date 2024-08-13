@@ -27,16 +27,6 @@ let DATA = {
     timeZoneName: 'short',
     timeZone: 'Europe/Paris',
   }),
-  project: [
-    {
-      name: "Project Alpha",
-      description: "A groundbreaking project in AI."
-    },
-    {
-      name: "Project Beta",
-      description: "An innovative tool for developers."
-    }
-  ],
   linkedin: "https://www.linkedin.com/in/mathieu-roche-efrei/",
   cv_en: "https://github.com/Datharr/Datharr/blob/main/assets/CV-EN.pdf",
   cv_fr: "https://github.com/Datharr/Datharr/blob/main/assets/CV-FR.pdf"
