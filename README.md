@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile and today is Thursday, 15 August, 15:53 CEST (updated every 3 hours). I'm Mathieu, driven by the ever-evolving challenges of cybersecurity, I am a Master's student in Cybersecurity at EFREI Paris. My strong background in computer engineering with a specialization in cybersecurity fuels my passion for solving complex problems and protecting systems from emerging threats.
+Welcome to my GitHub profile and today is Thursday, 15 August, 16:16 CEST (updated every 3 hours). I'm Mathieu, driven by the ever-evolving challenges of cybersecurity, I am a Master's student in Cybersecurity at EFREI Paris. My strong background in computer engineering with a specialization in cybersecurity fuels my passion for solving complex problems and protecting systems from emerging threats.
 
 
 ## What I Do
@@ -54,6 +54,8 @@ This game features various characteristics and options that make for an engaging
 <img src="https://github.com/Datharr/Datharr/blob/main/assets/Exquisite_corpse_code.png" alt="TD Code Language" style="width: 300px; height: auto; margin-right: 20px; border: 10px solid #888;"/>
 This C program retrieves half a million lines from a French language dictionary and stores them in a tree data structure, where each node represents a letter (using a **trie**). The program then uses this dictionary to generate French sentences for the "Cadavre Exquis" game, a surrealist writing game, according to three predefined sentence models.
 
+
+
 <img src="https://github.com/Datharr/Datharr/blob/main/assets/trie.png" alt="Actual Gameplay" style="float: right; width: 350px; height: auto; margin-left: 20px;"/>
 
 ### Features
@@ -65,6 +67,49 @@ This C program retrieves half a million lines from a French language dictionary 
   - **Model 2**: `Noun - "qui" - Verb - Verb - Noun - Adjective`
   - **Model 3**: `Verb - Adverb - Noun - Adjective`
 - **Extensive Codebase**: The program consists of over 1000 lines of code, structured for readability and maintainability with professional standards.
+
+### 🏹 Landscape Runner 🏹
+<img src="https://github.com/Datharr/Datharr/blob/main/assets/Landscape_runner_code.png" alt="TD Code Language" style="width: 300px; height: auto; margin-right: 20px; border: 10px solid #888;"/>
+
+**Landscape Runner** is a thrilling 2D side-scroller game where players navigate through dynamic environments, engage in epic boss battles, and enjoy stunning high-quality visuals. With over 1000 lines of meticulously crafted code, the game offers a seamless and immersive experience, featuring a parallax-scrolling environment that enhances the depth and feel of the game world.
+
+<img src="https://github.com/Datharr/Datharr/blob/main/assets/trie.png" alt="Actual Gameplay" style="float: right; width: 350px; height: auto; margin-left: 20px;"/>
+
+### Features
+
+- **Parallax Scrolling**: The game employs parallax scrolling to create a multi-layered environment that moves at different speeds, giving the illusion of depth and enhancing the visual experience.
+  
+- **High-Quality Sprites**: All in-game characters, enemies, and objects are represented with high-quality sprites, ensuring crisp and detailed visuals.
+
+- **Boss Battles**: Face off against challenging bosses, each with unique attack patterns and weaknesses. These encounters are designed to test your skills and strategy.
+
+### 🌴 From Days to Daze 🌴
+<img src="https://github.com/Datharr/Datharr/blob/main/assets/FDTD_code.png" alt="TD Code Language" style="width: 300px; height: auto; margin-right: 20px; border: 10px solid #888;"/>
+
+**From Days to Daze** is a narrative survival card game set on a deserted island. Inspired by the game "Reigns," players are tasked with managing a survivor's hunger, thirst, health, and the mood of their companions. The game features a rich narrative, special events,  and a hand-drawn art style & cinematics. With over 300 cards in its database, the game provides a deep and engaging survival experience.
+
+<img src="https://github.com/Datharr/Datharr/blob/main/assets/Exquisite_corpse_code.png" alt="TD Code Language" style="width: 300px; height: auto; margin-right: 20px; border: 10px solid #888;"/>
+
+### Features
+
+- **Survival Management**: Balance the survivor’s hunger, thirst, health, and the mood of your companions to ensure their survival.
+  
+- **Special Events**: Encounter unique events that challenge your decision-making skills and impact the game’s narrative.
+
+- **Narrative Structure**: Experience a compelling storyline with branching choices that affect the outcome of your survival adventure.
+
+- **Cinematics and Animations**: Enjoy immersive cutscenes and animations that enhance the storytelling and game experience.
+
+- **Seasonal Rotation**: Navigate through changing seasons that influence gameplay and survival strategies.
+
+- **Hand-Drawn Art**: Immerse yourself in a visually stunning world with art created entirely by hand.
+
+- **Extensive Card Database**: With over 300 unique cards, the game offers a wide range of scenarios, items, and decisions to explore.
+
+
+
+
+
 
 <h3>Where to find me</h3>
 <p>
