@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile and today is Tuesday, 13 August, 11:13 CEST (updated every 3 hours). I'm Mathieu, driven by the ever-evolving challenges of cybersecurity, I am a Master's student in Cybersecurity at EFREI Paris. My strong background in computer engineering with a specialization in cybersecurity fuels my passion for solving complex problems and protecting systems from emerging threats.
+Welcome to my GitHub profile and today is Thursday, 15 August, 15:53 CEST (updated every 3 hours). I'm Mathieu, driven by the ever-evolving challenges of cybersecurity, I am a Master's student in Cybersecurity at EFREI Paris. My strong background in computer engineering with a specialization in cybersecurity fuels my passion for solving complex problems and protecting systems from emerging threats.
 
 
 ## What I Do
@@ -49,6 +49,22 @@ This game features various characteristics and options that make for an engaging
 - **Mage Tower Effect:** Mage towers slow down enemies by 20%.
 - **Economy System:** Manage your resources carefully to avoid overbuilding. Towers cost money, which you earn by defeating monsters.
 - **Main Objective:** Prevent monsters from reaching the end of the path by strategically placing and upgrading your towers.
+
+### 📝 **Exquisite Corpse Generator** 📝
+<img src="https://github.com/Datharr/Datharr/blob/main/assets/Exquisite_corpse_code.png" alt="TD Code Language" style="width: 300px; height: auto; margin-right: 20px; border: 10px solid #888;"/>
+This C program retrieves half a million lines from a French language dictionary and stores them in a tree data structure, where each node represents a letter (using a **trie**). The program then uses this dictionary to generate French sentences for the "Cadavre Exquis" game, a surrealist writing game, according to three predefined sentence models.
+
+<img src="https://github.com/Datharr/Datharr/blob/main/assets/trie.png" alt="Actual Gameplay" style="float: right; width: 350px; height: auto; margin-left: 20px;"/>
+
+### Features
+
+- **Efficient Tree Data Structure**: The program uses a **trie** to store and manage the dictionary, optimizing both memory usage and lookup times.
+- **Memory Management**: Optimized memory handling using `malloc`, ensuring that the program can handle large amounts of data efficiently.
+- **Sentence Generation**: The program can generate grammatically correct French sentences based on three distinct models:
+  - **Model 1**: `Noun - Adjective - Verb - Noun`
+  - **Model 2**: `Noun - "qui" - Verb - Verb - Noun - Adjective`
+  - **Model 3**: `Verb - Adverb - Noun - Adjective`
+- **Extensive Codebase**: The program consists of over 1000 lines of code, structured for readability and maintainability with professional standards.
 
 <h3>Where to find me</h3>
 <p>
