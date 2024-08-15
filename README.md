@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile and today is Thursday, 15 August, 18:41 CEST (updated every 3 hours).
+Welcome to my GitHub profile and today is Thursday, 15 August, 18:48 CEST (updated every 3 hours).
 
 # Table of Contents
 
@@ -8,19 +8,19 @@ Welcome to my GitHub profile !
 
 ## 1. [My Profile](#my-profile)
   ### - [Description](#description)
-  ### - [My CV](#CV)
+  ### - [My CV](#my-cv)
 ## 2. [My Projects](#my-projects)
-  ### - [Algorithmics & Optimization](#algorithmics)
-  ###     - [🚚 Operation Research: Advanced Transportation Optimization 🚚](#🚚-operation-research-advanced-transportation-optimization-🚚)
+  ### - [Algorithmics & Optimization](#algorithmics-&-optimization)
+  ###   🚚 Operation Research: Advanced Transportation Optimization 
   ###     - [⚡ --------- ⚡](#FA)
-  ###     - [⚡ Finite Automata Operations ⚡](#⚡-finite-automata-operations-⚡)
-  ###     - [🎲 Takuzu Grid Generator & Solver 🎲](#takuzu-grid-generator--solver)
-  ###     - [📝 Exquisite Corpse Generator 📝](#Exquisite-corpse)
+  ###   ⚡ Finite Automata Operations 
+  ###   🎲 Takuzu Grid Generator & Solver 
+  ###   📝 Exquisite Corpse Generator 
   ### - [Game Projects](#game-projects) 
-  ###     - [🔎 Alibi 🔍](#alibi)
-  ###     - [🎯 **Tower Defense** 🎯](#tower-defense)
-  ###     - [🏹 Landscape Runner 🏹](#landscape-runner)
-  ###     - [🌴 From Days to Daze 🌴](#fdtd)
+  ###   🔎 Alibi
+  ###   🎯 **Tower Defense**
+  ###   🏹 Landscape Runner
+  ###   🌴 From Days to Daze
   ### - [Others](#others-projects)
   ###     - [⚡ --------- ⚡](#FA)
   ###     - [⚡ --------- ⚡](#FA)
