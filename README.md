@@ -1,5 +1,5 @@
 # Hi there! 👋
-This README is updated every 3 hours. Today is Thursday, 15 August, 19:51 CEST
+This README is updated every 3 hours. Today is Thursday, 15 August, 19:55 CEST
 
 <p align="justify">Welcome to my GitHub profile! I’m a 21-year-old French developer with a deep passion for cybersecurity. My journey into the world of programming began at a young age, and my fascination with how things work quickly led me to the field of cybersecurity. This specialization allows me to blend my technical expertise with a relentless curiosity about the ever-evolving digital landscape. Whether I’m exploring new security protocols, developing applications, my goal is to contribute to a safer and more secure digital world. Here, you’ll find a collection of my projects that reflect my dedication to continuous learning and my commitment to staying ahead in this fast-paced world. Feel free to explore, collaborate, and reach out to me if you share a similar passion or have any questions concerning my works.</p>
 
@@ -161,7 +161,7 @@ Apply sophisticated algorithms to refine the automaton:
   - **Model 3**: `Verb - Adverb - Noun - Adjective`
 - **Extensive Codebase**: The program consists of over 1000 lines of code, structured for readability and maintainability with professional standards.
 
-## Game Projects
+# Game Projects
 
 <p align="justify">I started coding video games at the age of 9, and this avenue has been a straightforward way for me to express my creativity and logic in a fun and engaging manner. Developing games has allowed me to combine my passion for programming with my desire to create interactive experiences. As I’ve grown, so have my standards and skills, pushing me to build increasingly sophisticated and polished projects. Game development was a crucial phase for exploring new ideas and refining my skills, but now my focus has shifted more towards algorithmics and optimization, where I continue to blend creativity with technical challenge.</p>
 
