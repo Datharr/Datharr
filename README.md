@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile and today is Thursday, 15 August, 17:33 CEST (updated every 3 hours). I'm Mathieu, driven by the ever-evolving challenges of cybersecurity, I am a Master's student in Cybersecurity at EFREI Paris. My strong background in computer engineering with a specialization in cybersecurity fuels my passion for solving complex problems and protecting systems from emerging threats.
+Welcome to my GitHub profile and today is Thursday, 15 August, 17:40 CEST (updated every 3 hours). I'm Mathieu, driven by the ever-evolving challenges of cybersecurity, I am a Master's student in Cybersecurity at EFREI Paris. My strong background in computer engineering with a specialization in cybersecurity fuels my passion for solving complex problems and protecting systems from emerging threats.
 
 
 ## What I Do
@@ -111,7 +111,7 @@ This C program retrieves half a million lines from a French language dictionary 
 
 Welcome to the **Takuzu Grid Generator & Solver** This tool is designed to generate and solve Takuzu (also known as Binero or Bento) puzzles of any size. Takuzu is a logic game similar to Sudoku, where the goal is to fill a grid with 0s and 1s while satisfying certain constraints.
 
-<img src="https://github.com/Datharr/Datharr/blob/main/assets/trie.png" alt="Actual Gameplay" style="float: right; width: 350px; height: auto; margin-left: 20px;"/>
+<img src="https://github.com/Datharr/Datharr/blob/main/assets/takuzu.png" alt="Actual Gameplay" style="float: right; width: 350px; height: auto; margin-left: 20px;"/>
 
 ### Features
 
@@ -152,7 +152,7 @@ The endeavor at hand involves the sophisticated problem of optimizing transporta
 
 The Finite Automata Operations Suite is a sophisticated tool designed to manipulate and analyze Finite Automata (FA) with advanced algorithms and data structures. The suite covers the entire lifecycle of FA processing—from parsing and display to standardization, determinization, and minimization—offering comprehensive functionality to tackle complex automaton problems.
 
-<img src="https://github.com/Datharr/Datharr/blob/main/assets/FA.png" alt="FA" style="float: right; width: 350px; height: auto; margin-left: 20px;"/>
+<img src="https://github.com/Datharr/Datharr/blob/main/assets/FA.png" alt="FA" style="float: right; width: 500px; height: auto; margin-left: 20px;"/>
 
 ### Key Features
 
