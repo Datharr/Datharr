@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile and today is Thursday, 15 August, 18:56 CEST (updated every 3 hours).
+Welcome to my GitHub profile and today is Thursday, 15 August, 19:03 CEST (updated every 3 hours).
 
 # Table of Contents
 
@@ -13,12 +13,12 @@ Welcome to my GitHub profile !
 
 In the fast-paced world we live in, efficiency and time management are paramount.
   Through experimenting and making mistakes, I have learned that algorithm design and optimization are not just theoretical concepts but essential components of practical problem-solving. Embracing the challenges of algorithmic thinking and optimization has become an integral part of my life, enabling me to refine my approach to complex problems and deliver solutions that are both innovative and efficient.
-  ## - [Algorithmics & Optimization](#algorithmics-&-optimization)
-  ###   - 🚚 Operation Research: Advanced Transportation Optimization for huge facility up to 100,000 x 100,000 matrices
-  ###   - 📐 Graph Theory : Graph Modelisation and Complex manipulation
-  ###   - ⚡ Finite Automata Operations : Finite Automata Operations
-  ###   - 🎲 Takuzu Grid Generator & Solver : A Solver for a Sudoku-like 
-  ###   - 📝 Exquisite Corpse Generator : Generator and corrector with a database of half a million words stocked in a tree
+  ## - [Algorithmics](#algorithmics)
+  ###   - 🚚 [Operation Research](#🚚): Advanced Transportation Optimization up to 100,000 x 100,000 matrices
+  ###   - 📐 [Graph Theory](#📐) : Graph Modelisation and Complex manipulation 
+  ###   - ⚡ [Finite Automata Operations](#⚡) : Finite Automata Operations
+  ###   - 🎲 [Takuzu Grid Generator & Solver] (#🎲) : A Solver for a Sudoku-like 
+  ###   - 📝 [Exquisite Corpse Generator](#📝) : Generator and corrector with a database of half a million words
   ## - [Game Projects](#game-projects) 
   I started coding video games at the age of 9, and this avenue has been a straightforward way for me to express my creativity and logic in a fun and engaging manner. Developing games has allowed me to combine my passion for programming with my desire to create interactive experiences. As I’ve grown, so have my standards and skills, pushing me to build increasingly sophisticated and polished projects.
   ###   - 🔎 Alibi
@@ -53,25 +53,13 @@ I'm Mathieu, driven by the ever-evolving challenges of cybersecurity, I am a Mas
 - **Learning**: Continuously learning and experimenting in the cybersecurity field.
 
 ##My CV
-<img src="https://github.com/Datharr/Datharr/blob/main/assets/V-EN.png" alt="CV" style="width: auto ; height: auto ; margin-right: 20px; border: 10px solid #888;"/>
+<img src="https://github.com/Datharr/Datharr/blob/main/assets/CV-EN.png" alt="CV" style="width: auto ; height: auto ; margin-right: 20px; border: 10px solid #888;"/>
 
-# My Projects
-  ### - [Algorithmics & Optimization](#algorithmics)
-    ### - [🚚 Operation Research: Advanced Transportation Optimization 🚚](#OR)
-    ### - [⚡ --------- ⚡](#FA)
-    ### - [⚡ Finite Automata Operations ⚡](#FA)
-    ### - [🎲 Takuzu Grid Generator & Solver 🎲](#Takuzu)
-    ### - [📝 Exquisite Corpse Generator 📝](#Exquisite-corpse)
-  ### - [Game Projects](#game-projects) 
-    ### - [🔎 Alibi 🔍](#alibi)
-    ### - [🎯 **Tower Defense** 🎯](#tower-defense)
-    ### - [🏹 Landscape Runner 🏹](#landscape-runner)
-    ### - [🌴 From Days to Daze 🌴](#fdtd)
-
-## Algorithmics & Optimization
+## Algorithmics
 
 In the fast-paced world we live in, efficiency and time management are paramount. As Albert Einstein once said, “The measure of intelligence is the ability to change.” Through experimenting and making mistakes, I have learned that algorithm design and optimization are not just theoretical concepts but essential components of practical problem-solving. Embracing the challenges of algorithmic thinking and optimization has become an integral part of my life, enabling me to refine my approach to complex problems and deliver solutions that are both innovative and efficient.
 
+#🚚
 ## 🚚 Operation Research: Advanced Transportation Optimization 🚚
 <img src="https://github.com/Datharr/Datharr/blob/main/assets/OR_code.png" alt="OR Code Language" style="width: auto; height: 45px; margin-right: 20px; border: 10px solid #888;"/>
 This project addresses transportation optimization problems for matrices up to 100,000 x 100,000, employing advanced algorithms such as North-West Corner, Balas-Hammer, and Stepping-Stone methods. We implement and rigorously test these algorithms to minimize transportation costs across complex networks.
