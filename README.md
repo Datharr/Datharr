@@ -1,10 +1,12 @@
 # Hi there! 👋
-This README is updated every 3 hours. Today is Thursday, 15 August, 19:42 CEST
+This README is updated every 3 hours. Today is Thursday, 15 August, 19:48 CEST
 
 <p align="justify">Welcome to my GitHub profile! I’m a 21-year-old French developer with a deep passion for cybersecurity. My journey into the world of programming began at a young age, and my fascination with how things work quickly led me to the field of cybersecurity. This specialization allows me to blend my technical expertise with a relentless curiosity about the ever-evolving digital landscape. Whether I’m exploring new security protocols, developing applications, my goal is to contribute to a safer and more secure digital world. Here, you’ll find a collection of my projects that reflect my dedication to continuous learning and my commitment to staying ahead in this fast-paced world. Feel free to explore, collaborate, and reach out to me if you share a similar passion or have any questions concerning my works.</p>
 
-###  Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Datharr&limit=5&theme=dark&combine_all_yearly_contributions=true)
+###  Github Statistics
+![](https://github-readme-stats.vercel.app/api?username=Datharr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Datharr&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Datharr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # Table of Contents
 
@@ -15,6 +17,7 @@ Welcome to my GitHub profile !
 ## 2. [My Projects](#my-projects)
 
 <p align="justify">In the fast-paced world we live in, efficiency and time management are paramount. Through experimenting and making mistakes, I have learned that algorithm design and optimization are not just theoretical concepts but essential components of practical problem-solving. Embracing the challenges of algorithmic thinking and optimization has become an integral part of my life, enabling me to refine my approach to complex problems and deliver solutions that are both innovative and efficient.</p>
+  
   ## [Algorithmics & Optimization](#algorithmics-and-optimizations)
   ###   - 🚚 [Operation Research](#-operation-research-advanced-transportation-optimization-): Advanced Transportation Optimization up to 100,000 x 100,000 matrices
   ###   - 📐 [Graph Theory](#-graph-theory-) : Graph Modelisation and Complex manipulation 
