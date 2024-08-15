@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile and today is Thursday, 15 August, 17:11 CEST (updated every 3 hours). I'm Mathieu, driven by the ever-evolving challenges of cybersecurity, I am a Master's student in Cybersecurity at EFREI Paris. My strong background in computer engineering with a specialization in cybersecurity fuels my passion for solving complex problems and protecting systems from emerging threats.
+Welcome to my GitHub profile and today is Thursday, 15 August, 17:24 CEST (updated every 3 hours). I'm Mathieu, driven by the ever-evolving challenges of cybersecurity, I am a Master's student in Cybersecurity at EFREI Paris. My strong background in computer engineering with a specialization in cybersecurity fuels my passion for solving complex problems and protecting systems from emerging threats.
 
 
 ## What I Do
@@ -11,7 +11,7 @@ Welcome to my GitHub profile and today is Thursday, 15 August, 17:11 CEST (updat
 ## Current Projects
 
 ## **🔎 Alibi 🔍**
-<img src="https://github.com/Datharr/Datharr/blob/main/assets/Alibi_code.png" alt="Alibi Code Language" style="width: 300px; height: auto; margin-right: 20px; border: 10px solid #888;"/>
+<img src="https://github.com/Datharr/Datharr/blob/main/assets/Alibi_code.png" alt="Alibi Code Language" style="width: auto ; height: 45px ; margin-right: 20px; border: 10px solid #888;"/>
 Available on iOS & Online, up to 4 players 
 Suddenly, you and your friend find yourselves accused of murder! With just 60 seconds to establish and memorize your alibi, you'll need to think quickly and act fast before facing the judge!
 
@@ -31,7 +31,7 @@ Suddenly, you and your friend find yourselves accused of murder! With just 60 se
 
 
 ## 🎯 **Tower Defense** 🎯
-<img src="https://github.com/Datharr/Datharr/blob/main/assets/TD_code.png" alt="TD Code Language" style="width: 300px; height: auto; margin-right: 20px; border: 10px solid #888;"/>
+<img src="https://github.com/Datharr/Datharr/blob/main/assets/TD_code.png" alt="TD Code Language" style="width: auto ; height: 45px ; margin-right: 20px; border: 10px solid #888;"/>
 This game features various characteristics and options that make for an engaging and strategic experience. Your goal is to prevent monsters from reaching the end of the path by strategically placing and upgrading towers.
 
 <img src="https://github.com/Datharr/TowerDefense/blob/main/preview.jpg" alt="Actual Gameplay" style="float: right; width: 350px; height: auto; margin-left: 20px;"/>
@@ -50,8 +50,8 @@ This game features various characteristics and options that make for an engaging
 - **Economy System:** Manage your resources carefully to avoid overbuilding. Towers cost money, which you earn by defeating monsters.
 - **Main Objective:** Prevent monsters from reaching the end of the path by strategically placing and upgrading your towers.
 
-### 📝 **Exquisite Corpse Generator** 📝
-<img src="https://github.com/Datharr/Datharr/blob/main/assets/Exquisite_corpse_code.png" alt="TD Code Language" style="width: 300px; height: auto; margin-right: 20px; border: 10px solid #888;"/>
+## 📝 **Exquisite Corpse Generator** 📝
+<img src="https://github.com/Datharr/Datharr/blob/main/assets/Exquisite_corpse_code.png" alt="TD Code Language" style="width: auto ; height: 45px ; margin-right: 20px; border: 10px solid #888;"/>
 This C program retrieves half a million lines from a French language dictionary and stores them in a tree data structure, where each node represents a letter (using a **trie**). The program then uses this dictionary to generate French sentences for the "Cadavre Exquis" game, a surrealist writing game, according to three predefined sentence models.
 
 
@@ -69,7 +69,7 @@ This C program retrieves half a million lines from a French language dictionary 
 - **Extensive Codebase**: The program consists of over 1000 lines of code, structured for readability and maintainability with professional standards.
 
 ## 🏹 Landscape Runner 🏹
-<img src="https://github.com/Datharr/Datharr/blob/main/assets/Landscape_runner_code.png" alt="TD Code Language" style="width: 300px; height: auto ; margin-right: 20px; border: 10px solid #888;"/>
+<img src="https://github.com/Datharr/Datharr/blob/main/assets/Landscape_runner_code.png" alt="TD Code Language" style="width: auto ; height: 45px ; margin-right: 20px; border: 10px solid #888;"/>
 
 **Landscape Runner** is a thrilling 2D side-scroller game where players navigate through dynamic environments, engage in epic boss battles, and enjoy stunning high-quality visuals. With over 1000 lines of meticulously crafted code, the game offers a seamless and immersive experience, featuring a parallax-scrolling environment that enhances the depth and feel of the game world.
 
@@ -84,7 +84,7 @@ This C program retrieves half a million lines from a French language dictionary 
 - **Boss Battles**: Face off against challenging bosses, each with unique attack patterns and weaknesses. These encounters are designed to test your skills and strategy.
 
 ## 🌴 From Days to Daze 🌴
-<img src="https://github.com/Datharr/Datharr/blob/main/assets/FDTD_code.png" alt="TD Code Language" style="width: auto; height: 35px; margin-right: 20px; border: 10px solid #888;"/>
+<img src="https://github.com/Datharr/Datharr/blob/main/assets/FDTD_code.png" alt="TD Code Language" style="width: auto; height: 45px; margin-right: 20px; border: 10px solid #888;"/>
 
 **From Days to Daze** is a narrative survival card game set on a deserted island. Inspired by the game "Reigns," players are tasked with managing a survivor's hunger, thirst, health, and the mood of their companions. The game features a rich narrative, special events,  and a hand-drawn art style & cinematics. With over 300 cards in its database, the game provides a deep and engaging survival experience.
 
@@ -107,7 +107,7 @@ This C program retrieves half a million lines from a French language dictionary 
 - **Extensive Card Database**: With over 300 unique cards, the game offers a wide range of scenarios, items, and decisions to explore.
 
 ## 🎲 Takuzu Grid Generator & Solver 🎲
-<img src="https://github.com/Datharr/Datharr/blob/main/assets/Takuzu_code.png" alt="TD Code Language" style="width: 300px; height: auto; margin-right: 20px; border: 10px solid #888;"/>
+<img src="https://github.com/Datharr/Datharr/blob/main/assets/Takuzu_code.png" alt="TD Code Language" style="width: auto ; height: 45px; margin-right: 20px; border: 10px solid #888;"/>
 
 Welcome to the **Takuzu Grid Generator & Solver** This tool is designed to generate and solve Takuzu (also known as Binero or Bento) puzzles of any size. Takuzu is a logic game similar to Sudoku, where the goal is to fill a grid with 0s and 1s while satisfying certain constraints.
 
@@ -127,7 +127,7 @@ Welcome to the **Takuzu Grid Generator & Solver** This tool is designed to gener
   - No two rows or columns should be identical.
 
 ## 🚚 Operation Research: Advanced Transportation Optimization 🚚
-<img src="https://github.com/Datharr/Datharr/blob/main/assets/OR_code.png" alt="OR Code Language" style="width: 500px; height: auto; margin-right: 20px; border: 10px solid #888;"/>
+<img src="https://github.com/Datharr/Datharr/blob/main/assets/OR_code.png" alt="OR Code Language" style="width: auto; height: 45px; margin-right: 20px; border: 10px solid #888;"/>
 This project addresses transportation optimization problems for matrices up to 100,000 x 100,000, employing advanced algorithms such as North-West Corner, Balas-Hammer, and Stepping-Stone methods. We implement and rigorously test these algorithms to minimize transportation costs across complex networks.
 The endeavor at hand involves the sophisticated problem of optimizing transportation allocations across a network of suppliers and consumers. Our goal is to develop a cutting-edge solution that minimizes transportation costs while adhering to complex constraints of supply and demand.
 
@@ -146,6 +146,42 @@ The endeavor at hand involves the sophisticated problem of optimizing transporta
 - **Algorithmic Implementations:** Precision-crafted algorithms for initial allocation, cost calculation, and optimization.
 - **Data Management:** Robust handling of transportation data with exacting formatting and display requirements.
 - **Execution Traces:** Detailed documentation of results from various problem instances, illustrating algorithm performance and solution accuracy.
+
+## ⚡ Finite Automata Operations Suite ⚡
+<img src="https://github.com/Datharr/Datharr/blob/main/assets/OR_code.png" alt="FA Code Language" style="width: auto; height: 45px; margin-right: 20px; border: 10px solid #888;"/>
+
+The Finite Automata Operations Suite is a sophisticated tool designed to manipulate and analyze Finite Automata (FA) with advanced algorithms and data structures. The suite covers the entire lifecycle of FA processing—from parsing and display to standardization, determinization, and minimization—offering comprehensive functionality to tackle complex automaton problems.
+
+<img src="https://github.com/Datharr/Datharr/blob/main/assets/FA_code.png" alt="FA" style="float: right; width: 350px; height: auto; margin-left: 20px;"/>
+
+### Key Features
+
+### 1. Parsing and Visualization
+
+Effortlessly ingest FA descriptions from meticulously formatted text files. The system dynamically constructs and visualizes:
+- **Initial States**: The starting configurations of the automaton.
+- **Terminal States**: The designated accepting states.
+- **Transition Matrix**: A detailed mapping of state transitions based on input symbols.
+
+### 2. Determinism and Completeness Analysis
+
+Evaluate and transform the FA to meet rigorous computational standards:
+- **Deterministic Verification**: Ascertain whether the FA adheres to deterministic principles.
+- **Completeness Check**: Ensure all possible transitions are defined for deterministic FAs.
+- **Standardization**: Convert non-standard FAs into their standard forms.
+
+### 3. Transformation Algorithms
+
+Apply sophisticated algorithms to refine the automaton:
+- **Determinization**: Convert non-deterministic FAs to deterministic ones.
+- **Completion**: Extend deterministic FAs to cover all potential transitions.
+- **Minimization**: Optimize the FA by merging equivalent states and reducing complexity.
+
+### 4. Advanced Features
+
+- **Word Recognition**: Test and validate word acceptance by the automaton.
+- **Language Complementation**: Generate and analyze an automaton for the complement of the original language.
+
 
 
 <h3>Where to find me</h3>
