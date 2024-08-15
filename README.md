@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile and today is Thursday, 15 August, 16:18 CEST (updated every 3 hours). I'm Mathieu, driven by the ever-evolving challenges of cybersecurity, I am a Master's student in Cybersecurity at EFREI Paris. My strong background in computer engineering with a specialization in cybersecurity fuels my passion for solving complex problems and protecting systems from emerging threats.
+Welcome to my GitHub profile and today is Thursday, 15 August, 16:28 CEST (updated every 3 hours). I'm Mathieu, driven by the ever-evolving challenges of cybersecurity, I am a Master's student in Cybersecurity at EFREI Paris. My strong background in computer engineering with a specialization in cybersecurity fuels my passion for solving complex problems and protecting systems from emerging threats.
 
 
 ## What I Do
@@ -88,7 +88,7 @@ This C program retrieves half a million lines from a French language dictionary 
 
 **From Days to Daze** is a narrative survival card game set on a deserted island. Inspired by the game "Reigns," players are tasked with managing a survivor's hunger, thirst, health, and the mood of their companions. The game features a rich narrative, special events,  and a hand-drawn art style & cinematics. With over 300 cards in its database, the game provides a deep and engaging survival experience.
 
-<img src="https://github.com/Datharr/Datharr/blob/main/assets/Exquisite_corpse_code.png" alt="TD Code Language" style="width: 300px; height: auto; margin-right: 20px; border: 10px solid #888;"/>
+<img src="https://github.com/Datharr/Datharr/blob/main/assets/trie.png" alt="Actual Gameplay" style="float: right; width: 350px; height: auto; margin-left: 20px;"/>
 
 ### Features
 
@@ -106,9 +106,25 @@ This C program retrieves half a million lines from a French language dictionary 
 
 - **Extensive Card Database**: With over 300 unique cards, the game offers a wide range of scenarios, items, and decisions to explore.
 
+### 🎲 Takuzu Grid Generator & Solver 🎲
+<img src="https://github.com/Datharr/Datharr/blob/main/assets/Takuzu_code.png" alt="TD Code Language" style="width: 300px; height: auto; margin-right: 20px; border: 10px solid #888;"/>
 
+Welcome to the **Takuzu Grid Generator & Solver** This tool is designed to generate and solve Takuzu (also known as Binero or Bento) puzzles of any size. Takuzu is a logic game similar to Sudoku, where the goal is to fill a grid with 0s and 1s while satisfying certain constraints.
 
+<img src="https://github.com/Datharr/Datharr/blob/main/assets/trie.png" alt="Actual Gameplay" style="float: right; width: 350px; height: auto; margin-left: 20px;"/>
 
+### Features
+
+- **Grid Generation**: Generate Takuzu grids of any size with a specified algorithm to ensure valid and solvable puzzles.
+
+- **Hint Option**: Provide hints to assist in solving the puzzle. The generator can insert a number of clues into the grid to guide players.
+
+- **Solver Algorithm**: Solve Takuzu puzzles using a built-in algorithm that finds a solution or verifies the puzzle's validity.
+
+- **Constraints**: Ensure that the generated puzzles follow the Takuzu rules:
+  - Each row and column must contain an equal number of 0s and 1s.
+  - No more than two identical numbers should be adjacent horizontally or vertically.
+  - No two rows or columns should be identical.
 
 
 <h3>Where to find me</h3>
