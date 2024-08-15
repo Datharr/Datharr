@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile and today is Thursday, 15 August, 16:16 CEST (updated every 3 hours). I'm Mathieu, driven by the ever-evolving challenges of cybersecurity, I am a Master's student in Cybersecurity at EFREI Paris. My strong background in computer engineering with a specialization in cybersecurity fuels my passion for solving complex problems and protecting systems from emerging threats.
+Welcome to my GitHub profile and today is Thursday, 15 August, 16:18 CEST (updated every 3 hours). I'm Mathieu, driven by the ever-evolving challenges of cybersecurity, I am a Master's student in Cybersecurity at EFREI Paris. My strong background in computer engineering with a specialization in cybersecurity fuels my passion for solving complex problems and protecting systems from emerging threats.
 
 
 ## What I Do
@@ -69,7 +69,7 @@ This C program retrieves half a million lines from a French language dictionary 
 - **Extensive Codebase**: The program consists of over 1000 lines of code, structured for readability and maintainability with professional standards.
 
 ### 🏹 Landscape Runner 🏹
-<img src="https://github.com/Datharr/Datharr/blob/main/assets/Landscape_runner_code.png" alt="TD Code Language" style="width: 300px; height: auto; margin-right: 20px; border: 10px solid #888;"/>
+<img src="https://github.com/Datharr/Datharr/blob/main/assets/Landscape_runner_code.png" alt="TD Code Language" style="width: 300px; height: 117px; margin-right: 20px; border: 10px solid #888;"/>
 
 **Landscape Runner** is a thrilling 2D side-scroller game where players navigate through dynamic environments, engage in epic boss battles, and enjoy stunning high-quality visuals. With over 1000 lines of meticulously crafted code, the game offers a seamless and immersive experience, featuring a parallax-scrolling environment that enhances the depth and feel of the game world.
 
@@ -84,7 +84,7 @@ This C program retrieves half a million lines from a French language dictionary 
 - **Boss Battles**: Face off against challenging bosses, each with unique attack patterns and weaknesses. These encounters are designed to test your skills and strategy.
 
 ### 🌴 From Days to Daze 🌴
-<img src="https://github.com/Datharr/Datharr/blob/main/assets/FDTD_code.png" alt="TD Code Language" style="width: 300px; height: auto; margin-right: 20px; border: 10px solid #888;"/>
+<img src="https://github.com/Datharr/Datharr/blob/main/assets/FDTD_code.png" alt="TD Code Language" style="width: auto; height: 117px; margin-right: 20px; border: 10px solid #888;"/>
 
 **From Days to Daze** is a narrative survival card game set on a deserted island. Inspired by the game "Reigns," players are tasked with managing a survivor's hunger, thirst, health, and the mood of their companions. The game features a rich narrative, special events,  and a hand-drawn art style & cinematics. With over 300 cards in its database, the game provides a deep and engaging survival experience.
 
