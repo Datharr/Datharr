@@ -1,35 +1,31 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile and today is Thursday, 15 August, 19:11 CEST (updated every 3 hours).
+Welcome to my GitHub profile and today is Thursday, 15 August, 19:21 CEST (updated every 3 hours).
 
 # Table of Contents
 
 Welcome to my GitHub profile !
 
 ## 1. [My Profile](#my-profile)
-  ### - [Description](#description)
   ### - [My CV](#my-cv)
 ## 2. [My Projects](#my-projects)
 
 In the fast-paced world we live in, efficiency and time management are paramount.
   Through experimenting and making mistakes, I have learned that algorithm design and optimization are not just theoretical concepts but essential components of practical problem-solving. Embracing the challenges of algorithmic thinking and optimization has become an integral part of my life, enabling me to refine my approach to complex problems and deliver solutions that are both innovative and efficient.
-  ## - Algorithmics & Optimization
-  ###   - 🚚 [Operation Research](#algorithmics-and-optimizations): Advanced Transportation Optimization up to 100,000 x 100,000 matrices
-  ###   - 📐 [Graph Theory](#04/03/2024) : Graph Modelisation and Complex manipulation 
+  ## [Algorithmics & Optimization](#algorithmics-and-optimizations)
+  ###   - 🚚 [Operation Research](#-operations-research-): Advanced Transportation Optimization up to 100,000 x 100,000 matrices
+  ###   - 📐 [Graph Theory](#-graph-theory-) : Graph Modelisation and Complex manipulation 
   ###   - ⚡ [Finite Automata Operations](#-finite-automata-operations-) : Finite Automata Operations
-  ###   - ⚡ [Finite Automata Operations](#finite-automata-operations-) : Finite Automata Operations
-  ###   - ⚡ [Finite Automata Operations](#finite-automata-operations) : Finite Automata Operations
-  ###   - ⚡ [Finite Automata Operations](#--finite-automata-operations--) : Finite Automata Operations
-  ###   - 🎲 [Takuzu Grid Generator & Solver] (#🎲) : A Solver for a Sudoku-like 
-  ###   - 📝 [Exquisite Corpse Generator](#📝) : Generator and corrector with a database of half a million words
-  ## - [Game Projects](#game-projects) 
+  ###   - 🎲 [Takuzu Grid Generator & Solver] (#-takuzu-grid-generator-&-solver) : A Solver for a Sudoku-like 
+  ###   - 📝 [Exquisite Corpse Generator](#-exquisite-corpse-generator-) : Generator and corrector with a database of half a million words
+  ## [Game Projects](#game-projects) 
   I started coding video games at the age of 9, and this avenue has been a straightforward way for me to express my creativity and logic in a fun and engaging manner. Developing games has allowed me to combine my passion for programming with my desire to create interactive experiences. As I’ve grown, so have my standards and skills, pushing me to build increasingly sophisticated and polished projects.
-  ###   - 🔎 Alibi
-  ###   - 🎯 **Tower Defense**
-  ###   - 🏹 Landscape Runner
-  ###   - 🌴 From Days to Daze
-  ### - [Others](#others-projects)
-  ###   - 📍 BeClean : Majordome 📐
+  ###   - 🔎 [Alibi](#-alibi-) : Multiplayer game available on Web & iOS up to 4 players 
+  ###   - 🎯 [Tower Defense](#-tower-defense-) : A classic tower Defense with levels & progression
+  ###   - 🏹 Landscape Runner(#-landscape-runner-) : A side-scroller game with bosses & parallax
+  ###   - 🌴 From Days to Daze(#-from-days-to-daze-) : A survival card game with cinematics
+  ### [Original Projects](#original-projects)
+  ###   - 📍 BeClean : Majordome 
   ###   - 📰 Social Market Manipulation
 ## 3. [Skills](#skills)
 ## 4. [Achievements](#achievements)
@@ -56,11 +52,12 @@ I'm Mathieu, driven by the ever-evolving challenges of cybersecurity, I am a Mas
 - **Learning**: Continuously learning and experimenting in the cybersecurity field.
 
 ##My CV
+
 <img src="https://github.com/Datharr/Datharr/blob/main/assets/CV-EN.png" alt="CV" style="width: auto ; height: auto ; margin-right: 20px; border: 10px solid #888;"/>
 
 ## Algorithmics and Optimizations
 
-In the fast-paced world we live in, efficiency and time management are paramount. As Albert Einstein once said, “The measure of intelligence is the ability to change.” Through experimenting and making mistakes, I have learned that algorithm design and optimization are not just theoretical concepts but essential components of practical problem-solving. Embracing the challenges of algorithmic thinking and optimization has become an integral part of my life, enabling me to refine my approach to complex problems and deliver solutions that are both innovative and efficient.
+<p align="justify"> In the fast-paced world we live in, efficiency and time management are paramount. As Albert Einstein once said, “The measure of intelligence is the ability to change.” Through experimenting and making mistakes, I have learned that algorithm design and optimization are not just theoretical concepts but essential components of practical problem-solving. Embracing the challenges of algorithmic thinking and optimization has become an integral part of my life, enabling me to refine my approach to complex problems and deliver solutions that are both innovative and efficient.</p>
 
 
 ## 🚚 Operation Research: Advanced Transportation Optimization 🚚
@@ -120,7 +117,6 @@ Apply sophisticated algorithms to refine the automaton:
 - **Word Recognition**: Test and validate word acceptance by the automaton.
 - **Language Complementation**: Generate and analyze an automaton for the complement of the original language.
 
-12/02/2022
 
 ## 🎲 Takuzu Grid Generator & Solver 🎲
 <img src="https://github.com/Datharr/Datharr/blob/main/assets/Takuzu_code.png" alt="TD Code Language" style="width: auto ; height: 45px; margin-right: 20px; border: 10px solid #888;"/>
@@ -142,7 +138,6 @@ Welcome to the **Takuzu Grid Generator & Solver** This tool is designed to gener
   - No more than two identical numbers should be adjacent horizontally or vertically.
   - No two rows or columns should be identical.
 
-18/05/2021
 
 ## 📝 Exquisite Corpse Generator 📝
 <img src="https://github.com/Datharr/Datharr/blob/main/assets/Exquisite_corpse_code.png" alt="TD Code Language" style="width: auto ; height: 45px ; margin-right: 20px; border: 10px solid #888;"/>
@@ -164,7 +159,6 @@ This C program retrieves half a million lines from a French language dictionary 
 
 I started coding video games at the age of 9, and this avenue has been a straightforward way for me to express my creativity and logic in a fun and engaging manner. Developing games has allowed me to combine my passion for programming with my desire to create interactive experiences. As I’ve grown, so have my standards and skills, pushing me to build increasingly sophisticated and polished projects. Game development was a crucial phase for exploring new ideas and refining my skills, but now my focus has shifted more towards algorithmics and optimization, where I continue to blend creativity with technical challenge.
 
-04/10/2022
 
 ## **🔎 Alibi 🔍**
 <img src="https://github.com/Datharr/Datharr/blob/main/assets/Alibi_code.png" alt="Alibi Code Language" style="width: auto ; height: 45px ; margin-right: 20px; border: 10px solid #888;"/>
