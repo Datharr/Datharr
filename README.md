@@ -1,5 +1,5 @@
 # Hi there! 👋
-This README is updated every 3 hours. Today is Thursday, 15 August, 20:04 CEST
+This README is updated every 3 hours. Today is Thursday, 15 August, 20:09 CEST
 
 <p align="justify">Welcome to my GitHub profile! I’m a 21-year-old French developer with a deep passion for cybersecurity. My journey into the world of programming began at a young age, and my fascination with how things work quickly led me to the field of cybersecurity. This specialization allows me to blend my technical expertise with a relentless curiosity about the ever-evolving digital landscape. Whether I’m exploring new security protocols, developing applications, my goal is to contribute to a safer and more secure digital world. Here, you’ll find a collection of my projects that reflect my dedication to continuous learning and my commitment to staying ahead in this fast-paced world. Feel free to explore, collaborate, and reach out to me if you share a similar passion or have any questions about my works.</p>
 
@@ -65,7 +65,7 @@ Welcome to my GitHub profile !
 <p align="justify"> In the fast-paced world we live in, efficiency and time management are paramount. As Albert Einstein once said, “The measure of intelligence is the ability to change.” Through experimenting and making mistakes, I have learned that algorithm design and optimization are not just theoretical concepts but essential components of practical problem-solving. Embracing the challenges of algorithmic thinking and optimization has become an integral part of my life, enabling me to refine my approach to complex problems and deliver solutions that are both innovative and efficient.</p>
 
 
-# 🚚 Operation Research: Advanced Transportation Optimization 🚚
+# 🚚 Operation Research: Advanced Transportation Solution 🚚
 <img src="https://github.com/Datharr/Datharr/blob/main/assets/OR_code.png" alt="OR Code Language" style="width: auto; height: 45px; margin-right: 20px; border: 10px solid #888;"/>
 <p align="justify">This project addresses transportation optimization problems for matrices up to 100,000 x 100,000, employing advanced algorithms such as North-West Corner, Balas-Hammer, and Stepping-Stone methods. We implement and rigorously test these algorithms to minimize transportation costs across complex networks. The endeavor at hand involves the sophisticated problem of optimizing transportation allocations across a network of suppliers and consumers. Our goal is to develop a cutting-edge solution that minimizes transportation costs while adhering to complex constraints of supply and demand.</p>
 
