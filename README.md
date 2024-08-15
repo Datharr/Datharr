@@ -1,8 +1,7 @@
 # Hi there! 👋
-This README is updated every 3 hours. Today is Thursday, 15 August, 19:35 CEST
+This README is updated every 3 hours. Today is Thursday, 15 August, 19:42 CEST
 
-Welcome to my GitHub profile! I’m a 21-year-old French developer with a deep passion for cybersecurity. My journey into the world of programming began at a young age, and my fascination with how things work quickly led me to the field of cybersecurity. This specialization allows me to blend my technical expertise with a relentless curiosity about the ever-evolving digital landscape. Whether I’m exploring new security protocols, developing applications, my goal is to contribute to a safer and more secure digital world. Here, you’ll find a collection of my projects that reflect my dedication to continuous learning and my commitment to staying ahead in this fast-paced world.
-Feel free to explore, collaborate, and reach out to me if you share a similar passion or have any questions concerning my works.
+<p align="justify">Welcome to my GitHub profile! I’m a 21-year-old French developer with a deep passion for cybersecurity. My journey into the world of programming began at a young age, and my fascination with how things work quickly led me to the field of cybersecurity. This specialization allows me to blend my technical expertise with a relentless curiosity about the ever-evolving digital landscape. Whether I’m exploring new security protocols, developing applications, my goal is to contribute to a safer and more secure digital world. Here, you’ll find a collection of my projects that reflect my dedication to continuous learning and my commitment to staying ahead in this fast-paced world. Feel free to explore, collaborate, and reach out to me if you share a similar passion or have any questions concerning my works.</p>
 
 ###  Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Datharr&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -15,8 +14,7 @@ Welcome to my GitHub profile !
   ### - [My CV](#my-cv)
 ## 2. [My Projects](#my-projects)
 
-In the fast-paced world we live in, efficiency and time management are paramount.
-  Through experimenting and making mistakes, I have learned that algorithm design and optimization are not just theoretical concepts but essential components of practical problem-solving. Embracing the challenges of algorithmic thinking and optimization has become an integral part of my life, enabling me to refine my approach to complex problems and deliver solutions that are both innovative and efficient.
+<p align="justify">In the fast-paced world we live in, efficiency and time management are paramount. Through experimenting and making mistakes, I have learned that algorithm design and optimization are not just theoretical concepts but essential components of practical problem-solving. Embracing the challenges of algorithmic thinking and optimization has become an integral part of my life, enabling me to refine my approach to complex problems and deliver solutions that are both innovative and efficient.</p>
   ## [Algorithmics & Optimization](#algorithmics-and-optimizations)
   ###   - 🚚 [Operation Research](#-operation-research-advanced-transportation-optimization-): Advanced Transportation Optimization up to 100,000 x 100,000 matrices
   ###   - 📐 [Graph Theory](#-graph-theory-) : Graph Modelisation and Complex manipulation 
@@ -24,7 +22,7 @@ In the fast-paced world we live in, efficiency and time management are paramount
   ###   - 🎲 [Takuzu Grid Generator & Solver] (#-takuzu-grid-generator-&-solver) : A Solver for a Sudoku-like 
   ###   - 📝 [Exquisite Corpse Generator](#-exquisite-corpse-generator-) : Generator and corrector with a database of half a million words
   ## [Game Projects](#game-projects) 
-  I started coding video games at the age of 9, and this avenue has been a straightforward way for me to express my creativity and logic in a fun and engaging manner. Developing games has allowed me to combine my passion for programming with my desire to create interactive experiences. As I’ve grown, so have my standards and skills, pushing me to build increasingly sophisticated and polished projects.
+<p align="justify">I started coding video games at the age of 9, and this avenue has been a straightforward way for me to express my creativity and logic in a fun and engaging manner. Developing games has allowed me to combine my passion for programming with my desire to create interactive experiences. As I’ve grown, so have my standards and skills, pushing me to build increasingly sophisticated and polished projects.</p>
   ###   - 🔎 [Alibi](#-alibi-) : Multiplayer game available on Web & iOS up to 4 players 
   ###   - 🎯 [Tower Defense](#-tower-defense-) : A classic tower Defense with levels & progression
   ###   - 🏹 Landscape Runner(#-landscape-runner-) : A side-scroller game with bosses & parallax
@@ -49,14 +47,14 @@ In the fast-paced world we live in, efficiency and time management are paramount
 
 # My Profile
 
-I'm Mathieu, driven by the ever-evolving challenges of cybersecurity, I am a Master's student in Cybersecurity at EFREI Paris. My strong background in computer engineering with a specialization in cybersecurity fuels my passion for solving complex problems and protecting systems from emerging threats.
+<p align="justify">I'm Mathieu, driven by the ever-evolving challenges of cybersecurity, I am a Master's student in Cybersecurity at EFREI Paris. My strong background in computer engineering with a specialization in cybersecurity fuels my passion for solving complex problems and protecting systems from emerging threats.</p>
 
 ## What I Do
 
 - **Software Development**: Building web and applications.
 - **Learning**: Continuously learning and experimenting in the cybersecurity field.
 
-##My CV
+## My CV
 
 <img src="https://github.com/Datharr/Datharr/blob/main/assets/CV-EN.png" alt="CV" style="width: auto ; height: auto ; margin-right: 20px; border: 10px solid #888;"/>
 
@@ -67,8 +65,7 @@ I'm Mathieu, driven by the ever-evolving challenges of cybersecurity, I am a Mas
 
 ## 🚚 Operation Research: Advanced Transportation Optimization 🚚
 <img src="https://github.com/Datharr/Datharr/blob/main/assets/OR_code.png" alt="OR Code Language" style="width: auto; height: 45px; margin-right: 20px; border: 10px solid #888;"/>
-This project addresses transportation optimization problems for matrices up to 100,000 x 100,000, employing advanced algorithms such as North-West Corner, Balas-Hammer, and Stepping-Stone methods. We implement and rigorously test these algorithms to minimize transportation costs across complex networks.
-The endeavor at hand involves the sophisticated problem of optimizing transportation allocations across a network of suppliers and consumers. Our goal is to develop a cutting-edge solution that minimizes transportation costs while adhering to complex constraints of supply and demand.
+<p align="justify">This project addresses transportation optimization problems for matrices up to 100,000 x 100,000, employing advanced algorithms such as North-West Corner, Balas-Hammer, and Stepping-Stone methods. We implement and rigorously test these algorithms to minimize transportation costs across complex networks. The endeavor at hand involves the sophisticated problem of optimizing transportation allocations across a network of suppliers and consumers. Our goal is to develop a cutting-edge solution that minimizes transportation costs while adhering to complex constraints of supply and demand.</p>
 
 <img src="https://github.com/Datharr/Datharr/blob/main/assets/operation_research.png" alt="Actual Gameplay" style="float: right; width: 350px; height: auto; margin-left: 20px;"/>
 
@@ -90,7 +87,7 @@ The endeavor at hand involves the sophisticated problem of optimizing transporta
 ## ⚡ Finite Automata Operations ⚡
 <img src="https://github.com/Datharr/Datharr/blob/main/assets/FA_code.png" alt="FA Code Language" style="width: auto; height: 45px; margin-right: 20px; border: 10px solid #888;"/>
 
-The Finite Automata Operations Suite is a sophisticated tool designed to manipulate and analyze Finite Automata (FA) with advanced algorithms and data structures. The suite covers the entire lifecycle of FA processing—from parsing and display to standardization, determinization, and minimization—offering comprehensive functionality to tackle complex automaton problems.
+<p align="justify">The Finite Automata Operations Suite is a sophisticated tool designed to manipulate and analyze Finite Automata (FA) with advanced algorithms and data structures. The suite covers the entire lifecycle of FA processing—from parsing and display to standardization, determinization, and minimization—offering comprehensive functionality to tackle complex automaton problems.</p>
 
 <img src="https://github.com/Datharr/Datharr/blob/main/assets/FA.png" alt="FA" style="float: right; width: 500px; height: auto; margin-left: 20px;"/>
 
@@ -126,7 +123,7 @@ Apply sophisticated algorithms to refine the automaton:
 ## 🎲 Takuzu Grid Generator & Solver 🎲
 <img src="https://github.com/Datharr/Datharr/blob/main/assets/Takuzu_code.png" alt="TD Code Language" style="width: auto ; height: 45px; margin-right: 20px; border: 10px solid #888;"/>
 
-Welcome to the **Takuzu Grid Generator & Solver** This tool is designed to generate and solve Takuzu (also known as Binero or Bento) puzzles of any size. Takuzu is a logic game similar to Sudoku, where the goal is to fill a grid with 0s and 1s while satisfying certain constraints.
+<p align="justify">Welcome to the **Takuzu Grid Generator & Solver** This tool is designed to generate and solve Takuzu (also known as Binero or Bento) puzzles of any size. Takuzu is a logic game similar to Sudoku, where the goal is to fill a grid with 0s and 1s while satisfying certain constraints.</p>
 
 <img src="https://github.com/Datharr/Datharr/blob/main/assets/takuzu.png" alt="Actual Gameplay" style="float: right; width: 350px; height: auto; margin-left: 20px;"/>
 
@@ -146,7 +143,7 @@ Welcome to the **Takuzu Grid Generator & Solver** This tool is designed to gener
 
 ## 📝 Exquisite Corpse Generator 📝
 <img src="https://github.com/Datharr/Datharr/blob/main/assets/Exquisite_corpse_code.png" alt="TD Code Language" style="width: auto ; height: 45px ; margin-right: 20px; border: 10px solid #888;"/>
-This C program retrieves half a million lines from a French language dictionary and stores them in a tree data structure, where each node represents a letter (using a **trie**). The program then uses this dictionary to generate French sentences for the "Cadavre Exquis" game, a surrealist writing game, according to three predefined sentence models.
+<p align="justify">This C program retrieves half a million lines from a French language dictionary and stores them in a tree data structure, where each node represents a letter (using a **trie**). The program then uses this dictionary to generate French sentences for the "Cadavre Exquis" game, a surrealist writing game, according to three predefined sentence models.</p>
 
 <img src="https://github.com/Datharr/Datharr/blob/main/assets/trie.png" alt="Actual Gameplay" style="float: right; width: 350px; height: auto; margin-left: 20px;"/>
 
@@ -162,7 +159,7 @@ This C program retrieves half a million lines from a French language dictionary 
 
 ## Game Projects
 
-I started coding video games at the age of 9, and this avenue has been a straightforward way for me to express my creativity and logic in a fun and engaging manner. Developing games has allowed me to combine my passion for programming with my desire to create interactive experiences. As I’ve grown, so have my standards and skills, pushing me to build increasingly sophisticated and polished projects. Game development was a crucial phase for exploring new ideas and refining my skills, but now my focus has shifted more towards algorithmics and optimization, where I continue to blend creativity with technical challenge.
+<p align="justify">I started coding video games at the age of 9, and this avenue has been a straightforward way for me to express my creativity and logic in a fun and engaging manner. Developing games has allowed me to combine my passion for programming with my desire to create interactive experiences. As I’ve grown, so have my standards and skills, pushing me to build increasingly sophisticated and polished projects. Game development was a crucial phase for exploring new ideas and refining my skills, but now my focus has shifted more towards algorithmics and optimization, where I continue to blend creativity with technical challenge.</p>
 
 
 ## **🔎 Alibi 🔍**
@@ -209,7 +206,7 @@ This game features various characteristics and options that make for an engaging
 ## 🏹 Landscape Runner 🏹
 <img src="https://github.com/Datharr/Datharr/blob/main/assets/Landscape_runner_code.png" alt="TD Code Language" style="width: auto ; height: 45px ; margin-right: 20px; border: 10px solid #888;"/>
 
-**Landscape Runner** is a thrilling 2D side-scroller game where players navigate through dynamic environments, engage in epic boss battles, and enjoy stunning high-quality visuals. With over 1000 lines of meticulously crafted code, the game offers a seamless and immersive experience, featuring a parallax-scrolling environment that enhances the depth and feel of the game world.
+<p align="justify">**Landscape Runner** is a thrilling 2D side-scroller game where players navigate through dynamic environments, engage in epic boss battles, and enjoy stunning high-quality visuals. With over 1000 lines of meticulously crafted code, the game offers a seamless and immersive experience, featuring a parallax-scrolling environment that enhances the depth and feel of the game world.</p>
 
 <img src="https://github.com/Datharr/Datharr/blob/main/assets/trie.png" alt="Actual Gameplay" style="float: right; width: 350px; height: auto; margin-left: 20px;"/>
 
@@ -224,7 +221,7 @@ This game features various characteristics and options that make for an engaging
 ## 🌴 From Days to Daze 🌴
 <img src="https://github.com/Datharr/Datharr/blob/main/assets/FDTD_code.png" alt="TD Code Language" style="width: auto; height: 45px; margin-right: 20px; border: 10px solid #888;"/>
 
-**From Days to Daze** is a narrative survival card game set on a deserted island. Inspired by the game "Reigns," players are tasked with managing a survivor's hunger, thirst, health, and the mood of their companions. The game features a rich narrative, special events,  and a hand-drawn art style & cinematics. With over 300 cards in its database, the game provides a deep and engaging survival experience.
+<p align="justify">**From Days to Daze** is a narrative survival card game set on a deserted island. Inspired by the game "Reigns," players are tasked with managing a survivor's hunger, thirst, health, and the mood of their companions. The game features a rich narrative, special events,  and a hand-drawn art style & cinematics. With over 300 cards in its database, the game provides a deep and engaging survival experience.</p>
 
 <img src="https://github.com/Datharr/Datharr/blob/main/assets/trie.png" alt="Actual Gameplay" style="float: right; width: 350px; height: auto; margin-left: 20px;"/>
 
