@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile and today is Thursday, 15 August, 18:48 CEST (updated every 3 hours).
+Welcome to my GitHub profile and today is Thursday, 15 August, 18:51 CEST (updated every 3 hours).
 
 # Table of Contents
 
@@ -11,19 +11,19 @@ Welcome to my GitHub profile !
   ### - [My CV](#my-cv)
 ## 2. [My Projects](#my-projects)
   ### - [Algorithmics & Optimization](#algorithmics-&-optimization)
-  ###   🚚 Operation Research: Advanced Transportation Optimization 
-  ###     - [⚡ --------- ⚡](#FA)
-  ###   ⚡ Finite Automata Operations 
-  ###   🎲 Takuzu Grid Generator & Solver 
-  ###   📝 Exquisite Corpse Generator 
+  ###   - 🚚 Operation Research: Advanced Transportation Optimization 
+  ###   - 📐 Graph Theory 
+  ###   - ⚡ Finite Automata Operations 
+  ###   - 🎲 Takuzu Grid Generator & Solver 
+  ###   - 📝 Exquisite Corpse Generator 
   ### - [Game Projects](#game-projects) 
-  ###   🔎 Alibi
-  ###   🎯 **Tower Defense**
-  ###   🏹 Landscape Runner
-  ###   🌴 From Days to Daze
+  ###   - 🔎 Alibi
+  ###   - 🎯 **Tower Defense**
+  ###   - 🏹 Landscape Runner
+  ###   - 🌴 From Days to Daze
   ### - [Others](#others-projects)
-  ###     - [⚡ --------- ⚡](#FA)
-  ###     - [⚡ --------- ⚡](#FA)
+  ###   - 📍 BeClean : Majordome 📐
+  ###   - 📰 Social Market Manipulation
 ## 3. [Skills](#skills)
 ## 4. [Achievements](#achievements)
 ## 5. [Certifications](#certifications)
