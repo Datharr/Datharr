@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile and today is Thursday, 15 August, 16:56 CEST (updated every 3 hours). I'm Mathieu, driven by the ever-evolving challenges of cybersecurity, I am a Master's student in Cybersecurity at EFREI Paris. My strong background in computer engineering with a specialization in cybersecurity fuels my passion for solving complex problems and protecting systems from emerging threats.
+Welcome to my GitHub profile and today is Thursday, 15 August, 17:01 CEST (updated every 3 hours). I'm Mathieu, driven by the ever-evolving challenges of cybersecurity, I am a Master's student in Cybersecurity at EFREI Paris. My strong background in computer engineering with a specialization in cybersecurity fuels my passion for solving complex problems and protecting systems from emerging threats.
 
 
 ## What I Do
@@ -84,7 +84,7 @@ This C program retrieves half a million lines from a French language dictionary 
 - **Boss Battles**: Face off against challenging bosses, each with unique attack patterns and weaknesses. These encounters are designed to test your skills and strategy.
 
 ## 🌴 From Days to Daze 🌴
-<img src="https://github.com/Datharr/Datharr/blob/main/assets/FDTD_code.png" alt="TD Code Language" style="width: auto; height: 34.47px; margin-right: 20px; border: 10px solid #888;"/>
+<img src="https://github.com/Datharr/Datharr/blob/main/assets/FDTD_code.png" alt="TD Code Language" style="width: auto; height: 35px; margin-right: 20px; border: 10px solid #888;"/>
 
 **From Days to Daze** is a narrative survival card game set on a deserted island. Inspired by the game "Reigns," players are tasked with managing a survivor's hunger, thirst, health, and the mood of their companions. The game features a rich narrative, special events,  and a hand-drawn art style & cinematics. With over 300 cards in its database, the game provides a deep and engaging survival experience.
 
@@ -127,7 +127,7 @@ Welcome to the **Takuzu Grid Generator & Solver** This tool is designed to gener
   - No two rows or columns should be identical.
 
 ## 🚚 Operation Research: Advanced Transportation Optimization 🚚
-<img src="https://github.com/Datharr/Datharr/blob/main/assets/OR_code.png" alt="OR Code Language" style="width: 300px; height: auto; margin-right: 20px; border: 10px solid #888;"/>
+<img src="https://github.com/Datharr/Datharr/blob/main/assets/OR_code.png" alt="OR Code Language" style="width: 500px; height: auto; margin-right: 20px; border: 10px solid #888;"/>
 This project addresses transportation optimization problems for matrices up to 100,000 x 100,000, employing advanced algorithms such as North-West Corner, Balas-Hammer, and Stepping-Stone methods. We implement and rigorously test these algorithms to minimize transportation costs across complex networks.
 The endeavor at hand involves the sophisticated problem of optimizing transportation allocations across a network of suppliers and consumers. Our goal is to develop a cutting-edge solution that minimizes transportation costs while adhering to complex constraints of supply and demand.
 
