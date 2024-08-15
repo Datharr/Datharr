@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile and today is Thursday, 15 August, 16:31 CEST (updated every 3 hours). I'm Mathieu, driven by the ever-evolving challenges of cybersecurity, I am a Master's student in Cybersecurity at EFREI Paris. My strong background in computer engineering with a specialization in cybersecurity fuels my passion for solving complex problems and protecting systems from emerging threats.
+Welcome to my GitHub profile and today is Thursday, 15 August, 16:56 CEST (updated every 3 hours). I'm Mathieu, driven by the ever-evolving challenges of cybersecurity, I am a Master's student in Cybersecurity at EFREI Paris. My strong background in computer engineering with a specialization in cybersecurity fuels my passion for solving complex problems and protecting systems from emerging threats.
 
 
 ## What I Do
@@ -125,6 +125,27 @@ Welcome to the **Takuzu Grid Generator & Solver** This tool is designed to gener
   - Each row and column must contain an equal number of 0s and 1s.
   - No more than two identical numbers should be adjacent horizontally or vertically.
   - No two rows or columns should be identical.
+
+## 🚚 Operation Research: Advanced Transportation Optimization 🚚
+<img src="https://github.com/Datharr/Datharr/blob/main/assets/OR_code.png" alt="OR Code Language" style="width: 300px; height: auto; margin-right: 20px; border: 10px solid #888;"/>
+This project addresses transportation optimization problems for matrices up to 100,000 x 100,000, employing advanced algorithms such as North-West Corner, Balas-Hammer, and Stepping-Stone methods. We implement and rigorously test these algorithms to minimize transportation costs across complex networks.
+The endeavor at hand involves the sophisticated problem of optimizing transportation allocations across a network of suppliers and consumers. Our goal is to develop a cutting-edge solution that minimizes transportation costs while adhering to complex constraints of supply and demand.
+
+<img src="https://github.com/Datharr/Datharr/blob/main/assets/operation_research.png" alt="Actual Gameplay" style="float: right; width: 350px; height: auto; margin-left: 20px;"/>
+
+### Core Objectives
+
+- **Algorithmic Sophistication:** Employing advanced heuristic methods including:
+  - **North-West Corner Method** and **Balas-Hammer Method** for initial feasible solutions.
+  - **Stepping-Stone Method** enhanced with potential calculations to iteratively refine the optimal allocation.
+- **Cycle Resolution:** Implementation of a Breadth-First Search (BFS) algorithm for detecting and resolving cycles within the transportation matrix.
+- **Complexity Analysis:** Comprehensive assessment of algorithmic performance through empirical complexity analysis.
+
+### Key Deliverables
+
+- **Algorithmic Implementations:** Precision-crafted algorithms for initial allocation, cost calculation, and optimization.
+- **Data Management:** Robust handling of transportation data with exacting formatting and display requirements.
+- **Execution Traces:** Detailed documentation of results from various problem instances, illustrating algorithm performance and solution accuracy.
 
 
 <h3>Where to find me</h3>
