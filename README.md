@@ -1,5 +1,5 @@
 # Hi there! 👋
-This README is updated every 3 hours. Today is Friday, 16 August, 12:40 CEST
+This README is updated every 3 hours. Today is Friday, 16 August, 12:56 CEST
 
 <p align="justify">Welcome to my GitHub profile! I’m a 21-year-old French developer with a deep passion for cybersecurity. My journey into the world of programming began at a young age, and my fascination with how things work quickly led me to the field of cybersecurity. This specialization allows me to blend my technical expertise with a relentless curiosity about the ever-evolving digital landscape. Whether I’m exploring new security protocols, developing applications, my goal is to contribute to a safer and more secure digital world. Here, you’ll find a collection of my projects that reflect my dedication to continuous learning and my commitment to staying ahead in this fast-paced world. Feel free to explore, collaborate, and reach out to me if you share a similar passion or have any questions about my works.</p>
 
@@ -9,8 +9,6 @@ This README is updated every 3 hours. Today is Friday, 16 August, 12:40 CEST
 
 # Table of Contents
 
-Welcome to my GitHub profile !
-
 # 1. [My Profile](#my-profile)
   ## - [My CV](#my-cv)
 # 2. [My Projects](#my-projects)
@@ -19,7 +17,7 @@ Welcome to my GitHub profile !
   
   ## [Algorithmics & Optimization](#algorithmics-and-optimizations)
   ###   - 🚚 [Operation Research](#-operation-research-advanced-transportation-optimization-): Advanced Transportation Optimization up to 100,000 x 100,000 matrices
-  ###   - 📐 [Graph Theory](#-graph-theory-) : Graph Modelisation and Complex manipulation (🚧)  
+  ###   - 📐 Graph Theory : Graph Modelisation and Complex manipulation (🚧)  
   ###   - ⚡ [Finite Automata Operations](#-finite-automata-operations-) : Finite Automata Operations
   ###   - 🎲 [Takuzu Grid Generator & Solver](#-takuzu-grid-generator-solver) : A Solver for a Sudoku-like 
   ###   - 📝 [Exquisite Corpse Generator](#-exquisite-corpse-generator-) : Generator and corrector with a database of half a million words
@@ -213,7 +211,7 @@ This game features various characteristics and options that make for an engaging
 # 🏹 Landscape Runner 🏹
 <img src="https://github.com/Datharr/Datharr/blob/main/assets/Landscape_runner_code.png" alt="TD Code Language" style="width: auto ; height: 45px ; margin-right: 20px; border: 10px solid #888;"/>
 
-<p align="justify"> **Landscape Runner** is a thrilling 2D side-scroller game where players navigate through dynamic environments, engage in epic boss battles, and enjoy stunning high-quality visuals. With over 1000 lines of meticulously crafted code, the game offers a seamless and immersive experience, featuring a parallax-scrolling environment that enhances the depth and feel of the game world.</p>
+<p align="justify"> **Landscape Runner**is a thrilling 2D side-scroller game where players navigate through dynamic environments, engage in epic boss battles, and enjoy stunning high-quality visuals. With over 1000 lines of meticulously crafted code, the game offers a seamless and immersive experience, featuring a parallax-scrolling environment that enhances the depth and feel of the game world.</p>
 
 <img src="https://github.com/Datharr/Datharr/blob/main/assets/no_img.png" alt="Actual Gameplay" style="float: right; width: 350px; height: auto; margin-left: 20px;"/>
 
@@ -228,7 +226,7 @@ This game features various characteristics and options that make for an engaging
 # 🌴 From Days to Daze 🌴
 <img src="https://github.com/Datharr/Datharr/blob/main/assets/FDTD_code.png" alt="TD Code Language" style="width: auto; height: 45px; margin-right: 20px; border: 10px solid #888;"/>
 
-<p align="justify">**From Days to Daze** is a narrative survival card game set on a deserted island. Inspired by the game "Reigns," players are tasked with managing a survivor's hunger, thirst, health, and the mood of their companions. The game features a rich narrative, special events,  and a hand-drawn art style & cinematics. With over 300 cards in its database, the game provides a deep and engaging survival experience.</p>
+<p align="justify">**From Days to Daze**is a narrative survival card game set on a deserted island. Inspired by the game "Reigns," players are tasked with managing a survivor's hunger, thirst, health, and the mood of their companions. The game features a rich narrative, special events,  and a hand-drawn art style & cinematics. With over 300 cards in its database, the game provides a deep and engaging survival experience.</p>
 
 <img src="https://github.com/Datharr/Datharr/blob/main/assets/no_img.png" alt="Actual Gameplay" style="float: right; width: 350px; height: auto; margin-left: 20px;"/>
 
@@ -321,8 +319,10 @@ Throughout the project, several challenges were encountered:
 
 # Certifications
 
-
-
+<img src="https://github.com/Datharr/Datharr/blob/main/assets/google_cybesecurity.png" alt="Google Cybersecurity Specialization" style="float: right; width: 350px; height: auto; margin-left: 20px;"/>
+<img src="https://github.com/Datharr/Datharr/blob/main/assets/cisco_cybersecurity.png" alt="Cisco Cybersecurity" style="float: right; width: 350px; height: auto; margin-left: 20px;"/>
+<img src="https://github.com/Datharr/Datharr/blob/main/assets/toeic.png" alt="TOEIC 965" style="float: right; width: 350px; height: auto; margin-left: 20px;"/>
+<img src="https://github.com/Datharr/Datharr/blob/main/assets/matlab_onramp.png" alt="Matlab" style="float: right; width: 350px; height: auto; margin-left: 20px;"/>
 
 <h3>Where to find me</h3>
 <p>
@@ -338,7 +338,7 @@ Throughout the project, several challenges were encountered:
   <a href="mailto:mathieu.roche@efrei.net" target="_blank">
     <img alt="Outlook" src="https://img.shields.io/badge/Outlook-%230077B5.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
-   <a href="https://github.com/Datharr/Datharr/blob/main/assets/CV-EN.pdf" target="_blank">
+   <a href="#my-cv" target="_blank">
     <img alt="CV" src="https://img.shields.io/badge/CV-%23000000.svg?&style=for-the-badge&logo=resume&logoColor=white" />
   </a>
 </p>
