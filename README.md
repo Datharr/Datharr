@@ -1,5 +1,5 @@
 # Hi there! 👋
-This README is updated every 3 hours. Today is Friday, 16 August, 11:13 CEST
+This README is updated every 3 hours. Today is Friday, 16 August, 12:11 CEST
 
 <p align="justify">Welcome to my GitHub profile! I’m a 21-year-old French developer with a deep passion for cybersecurity. My journey into the world of programming began at a young age, and my fascination with how things work quickly led me to the field of cybersecurity. This specialization allows me to blend my technical expertise with a relentless curiosity about the ever-evolving digital landscape. Whether I’m exploring new security protocols, developing applications, my goal is to contribute to a safer and more secure digital world. Here, you’ll find a collection of my projects that reflect my dedication to continuous learning and my commitment to staying ahead in this fast-paced world. Feel free to explore, collaborate, and reach out to me if you share a similar passion or have any questions about my works.</p>
 
@@ -33,7 +33,7 @@ Welcome to my GitHub profile !
   ###   - 🌴 [From Days to Daze](#-from-days-to-daze-) : A survival card game with cinematics
   ## [Original Projects](#original-projects)
   ###   - 📍 BeClean : Majordome 
-  ###   - 📰 Social Market Manipulation
+  ###   - 📈 [Social Influence Generator and Trend Analyzer](#-social-influence-generator-and-trend-analyzer-) : Selling influence and visibility online
 ## 3. [Certifications](#certifications)
 ## 4. Contact Me
 <p>
@@ -244,6 +244,71 @@ This game features various characteristics and options that make for an engaging
 - **Extensive Card Database**: With over 300 unique cards, the game offers a wide range of scenarios, items, and decisions to explore.
 
 # Original Projects
+
+# 📈 Social Influence Generator and Trend Analyzer 📈
+<img src="https://github.com/Datharr/Datharr/blob/main/assets/TD_code.png" alt="TD Code Language" style="width: auto ; height: 45px ; margin-right: 20px; border: 10px solid #888;"/>
+
+## Project Overview
+In today's fast-paced digital world, social media influence has become a critical component of marketing strategies. This project aims to automate the generation and monetization of social media influence by creating content that is automatically generated and edited, optimized to align with the latest market trends. The objective is to leverage data-driven insights to produce engaging content that resonates with audiences across multiple platforms, ensuring maximum reach and impact.
+
+<img src="https://github.com/Datharr/Datharr/blob/main/assets/stats.png" alt="Actual Gameplay" style="float: right; width: 350px; height: auto; margin-left: 20px;"/>
+
+## Objectives
+The primary goal of this project is to simplify and scale the process of building social media influence by:
+- **Automating Content Creation**: Reducing the time and effort required to produce high-quality content that attracts and engages viewers.
+- **Trend-Based Optimization**: Continuously analyzing market trends and user preferences to refine content strategies and stay ahead of the competition.
+- **Multi-Platform Reach**: Distributing content across various social media platforms to build a diverse and extensive audience base.
+- **Monetization**: Converting social media influence into tangible financial outcomes through strategic partnerships, sponsored content, and direct sales.
+
+## Key Features
+- **Automated Content Generation**: Utilizes handmade tools to automatically generate and edit content, ensuring consistency and quality while reducing manual effort.
+- **Trend Detection and Analysis**: Employs data analytics to monitor social media trends and adjust content strategies accordingly.
+- **Multi-Platform Distribution**: Content is deployed across more than 15 different social media accounts, each tailored to the platform’s specific audience and engagement patterns.
+- **Performance Analytics**: Real-time tracking and analysis of content performance to identify successful strategies and areas for improvement.
+- **Scalability**: Designed to handle large-scale content production and distribution, allowing for rapid growth for thousands of new accounts.
+
+## Project Achievements
+Over a 30-day experiment, the project yielded impressive results:
+- **7.5 Million** unique views across all platforms.
+- **600,000+** likes, reflecting strong audience engagement.
+- **65 Million** seconds of watch time, indicating high viewer retention.
+- A single video achieved a peak of **3.4 Million** views, showcasing the potential for viral content.
+
+These metrics highlight the effectiveness of the automated content generation and trend analysis approach, proving its viability in creating and sustaining social media influence in todays world.
+
+## An example of one of the french account focused on comedy contents :
+<img src="https://github.com/Datharr/Datharr/blob/main/assets/account_1.png" alt="Image of statistics of the first french comedy account" style="float: right; width: 350px; height: auto; margin-left: 20px;"/>
+
+## How It Works
+
+### 1. Market Analysis
+The foundation of this project is a robust market analysis framework that continuously monitors social media platforms for emerging trends, viral content, and shifts in audience behavior. By leveraging data from various sources, we identify patterns and preferences that inform the content creation process.
+
+### 2. Automated Content Generation
+Once trends are identified, our handmade tools generate content that is specifically designed to appeal to the target audience. This includes everything from video scripts and visual elements to editing and final production. The automation process ensures that content is produced quickly, maintaining relevance and freshness.
+
+### 3. Multi-Platform Distribution
+The generated content is then distributed across multiple social media platforms & account. Each platform's unique characteristics and audience demographics are taken into account to maximize engagement and reach.
+
+### 4. Trend-Driven Optimization
+Post-distribution, the performance of each piece of content is closely monitored. Using real-time analytics, we track metrics such as views, likes, shares, and watch time to ensure that we're going in the right direction.
+
+### 5. Monetization Strategy
+As the social media accounts grow in influence, this include various monetization strategies :
+- **Sponsored Content**: Partnering with brands and businesses to create content that aligns with their marketing goals.
+- **Affiliate Marketing**: Promoting products and earning a commission on sales generated through our content.
+- **Direct Sales**: Selling merchandise or digital products directly through social media platforms.
+
+## Challenges and Solutions
+Throughout the project, several challenges were encountered:
+- **Content Quality**: Ensuring that automated content meets high-quality standards to optimize high viewer retention by incorporating human oversight during the final editing stages.
+- **Trend Volatility**: Social media trends can change rapidly. To mitigate this, the system was designed to be  adaptive, allowing for quick adjustments in content strategy.
+- **Platform Specificity**: Each platform has different requirements and user expectations. We developed platform-specific content templates to streamline the adaptation process.
+
+This project demonstrates the potential of combining automation with data-driven insights to build and monetize social media influence at scale. The success achieved in just 30 days underscores the effectiveness of the approach and opens up exciting possibilities for further development and expansion.
+
+### The most popular video on this experiment :
+<img src="https://github.com/Datharr/Datharr/blob/main/assets/account_1_most_popular.png" alt="Image of the first french comedy account's most popular video" style="float: right; width: 350px; height: auto; margin-left: 20px;"/>
 
 
 # Certifications
