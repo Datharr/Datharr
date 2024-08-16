@@ -1,5 +1,5 @@
 # Hi there! 👋
-This README is updated every 3 hours. Today is Friday, 16 August, 15:42 CEST
+This README is updated every 3 hours. Today is Friday, 16 August, 15:43 CEST
 
 <br>
 
@@ -42,7 +42,7 @@ This README is updated every 3 hours. Today is Friday, 16 August, 15:42 CEST
   ###   - 🚚 [Operation Research](#-operation-research-advanced-transportation-solution-): Advanced Transportation Optimization up to 100,000 x 100,000 matrices
   ###   - 📐 Graph Theory : Graph Modelisation and Complex manipulation (🚧)  
   ###   - ⚡ [Finite Automata Operations](#-finite-automata-operations-) : Finite Automata Operations
-  ###   - 🎲 [Takuzu Grid Generator & Solver](#-takuzu-grid-generator-solver-) : A Solver for a Sudoku-like 
+  ###   - 🎲 [Takuzu Grid Generator & Solver](#-takuzu-grid-generator--solver-) : A Solver for a Sudoku-like 
   ###   - 📝 [Exquisite Corpse Generator](#-exquisite-corpse-generator-) : Generator and corrector with a database of half a million words
 
   <br>
@@ -316,6 +316,8 @@ This game features various characteristics and options that make for an engaging
 
 - **Extensive Card Database**: With over 300 unique cards, the game offers a wide range of scenarios, items, and decisions to explore.
 
+<br>
+
 # Original Projects
 
 <p align="justify">Innovation drives progress, and I believe that originality is the key to pushing the boundaries of what's possible. By working on unique projects, I challenge myself to think creatively and find solutions that haven't been explored before. For me, it's not just about solving problems, it's about doing so in a way that sparks curiosity, inspires others, and leaves a lasting impact.</p>
@@ -398,7 +400,10 @@ Throughout the project, several challenges were encountered:
 <img src="https://github.com/Datharr/Datharr/blob/main/assets/toeic.png" alt="TOEIC 965" style="float: right; width: 450px; height: auto; margin-left: 20px;"/>
 <img src="https://github.com/Datharr/Datharr/blob/main/assets/matlab_onramp.png" alt="Matlab" style="float: right; width: 450px; height: auto; margin-left: 20px;"/>
 
-<h3>Where to find me</h3>
+<br>
+
+## Where to find me
+
 <p>
   <a href="https://github.com/Datharr" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
