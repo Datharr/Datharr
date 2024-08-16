@@ -1,5 +1,5 @@
 # Hi there! 👋
-This README is updated every 3 hours. Today is Friday, 16 August, 15:33 CEST
+This README is updated every 3 hours. Today is Friday, 16 August, 15:37 CEST
 
 <br>
 
@@ -30,12 +30,11 @@ This README is updated every 3 hours. Today is Friday, 16 August, 15:33 CEST
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-F6820D?style=for-the-badge&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-384d54?style=for-the-badge&logo=docker&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge&logo=Wireshark&logoColor=white)
 
 # Table of Contents
 
-# 1. [My Profile](#my-profile)
-  ## - [My CV](#my-cv)
-# 2. [My Projects](#my-projects)
+# 1. [My Projects](#my-projects)
 
 <p align="justify">In the fast-paced world we live in, efficiency and time management are paramount. Through experimenting and making mistakes, I have learned that algorithm design and optimization are not just theoretical concepts but essential components of practical problem-solving. Embracing the challenges of algorithmic thinking and optimization has become an integral part of my life, enabling me to refine my approach to complex problems and deliver solutions that are both innovative and efficient.</p>
   
@@ -70,9 +69,9 @@ This README is updated every 3 hours. Today is Friday, 16 August, 15:33 CEST
 
 <br>
 
-# 3. [Certifications](#certifications)
+# 2. [Certifications](#certifications)
 
-# 4. Contact Me
+# 3. Contact Me
 <p>
   <a href="https://github.com/Datharr" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
@@ -91,10 +90,7 @@ This README is updated every 3 hours. Today is Friday, 16 August, 15:33 CEST
   </a>
 </p>
 
-
-## My CV
-
-<img src="https://github.com/Datharr/Datharr/blob/main/assets/CV.pdf" alt="CV" style="width: auto ; height: auto ; margin-right: 20px; border: 10px solid #888;"/>
+<br>
 
 # Algorithmics and Optimizations
 
