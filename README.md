@@ -1,5 +1,5 @@
 # Hi there! 👋
-This README is updated every 3 hours. Today is Friday, 16 August, 12:56 CEST
+This README is updated every 3 hours. Today is Friday, 16 August, 12:59 CEST
 
 <p align="justify">Welcome to my GitHub profile! I’m a 21-year-old French developer with a deep passion for cybersecurity. My journey into the world of programming began at a young age, and my fascination with how things work quickly led me to the field of cybersecurity. This specialization allows me to blend my technical expertise with a relentless curiosity about the ever-evolving digital landscape. Whether I’m exploring new security protocols, developing applications, my goal is to contribute to a safer and more secure digital world. Here, you’ll find a collection of my projects that reflect my dedication to continuous learning and my commitment to staying ahead in this fast-paced world. Feel free to explore, collaborate, and reach out to me if you share a similar passion or have any questions about my works.</p>
 
@@ -319,7 +319,7 @@ Throughout the project, several challenges were encountered:
 
 # Certifications
 
-<img src="https://github.com/Datharr/Datharr/blob/main/assets/google_cybesecurity.png" alt="Google Cybersecurity Specialization" style="float: right; width: 350px; height: auto; margin-left: 20px;"/>
+<img src="https://github.com/Datharr/Datharr/blob/main/assets/google_cybersecurity.png" alt="Google Cybersecurity Specialization" style="float: right; width: 350px; height: auto; margin-left: 20px;"/>
 <img src="https://github.com/Datharr/Datharr/blob/main/assets/cisco_cybersecurity.png" alt="Cisco Cybersecurity" style="float: right; width: 350px; height: auto; margin-left: 20px;"/>
 <img src="https://github.com/Datharr/Datharr/blob/main/assets/toeic.png" alt="TOEIC 965" style="float: right; width: 350px; height: auto; margin-left: 20px;"/>
 <img src="https://github.com/Datharr/Datharr/blob/main/assets/matlab_onramp.png" alt="Matlab" style="float: right; width: 350px; height: auto; margin-left: 20px;"/>
