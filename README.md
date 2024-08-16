@@ -1,5 +1,5 @@
 # Hi there! 👋
-This README is updated every 3 hours. Today is Friday, 16 August, 12:26 CEST
+This README is updated every 3 hours. Today is Friday, 16 August, 12:40 CEST
 
 <p align="justify">Welcome to my GitHub profile! I’m a 21-year-old French developer with a deep passion for cybersecurity. My journey into the world of programming began at a young age, and my fascination with how things work quickly led me to the field of cybersecurity. This specialization allows me to blend my technical expertise with a relentless curiosity about the ever-evolving digital landscape. Whether I’m exploring new security protocols, developing applications, my goal is to contribute to a safer and more secure digital world. Here, you’ll find a collection of my projects that reflect my dedication to continuous learning and my commitment to staying ahead in this fast-paced world. Feel free to explore, collaborate, and reach out to me if you share a similar passion or have any questions about my works.</p>
 
@@ -19,7 +19,7 @@ Welcome to my GitHub profile !
   
   ## [Algorithmics & Optimization](#algorithmics-and-optimizations)
   ###   - 🚚 [Operation Research](#-operation-research-advanced-transportation-optimization-): Advanced Transportation Optimization up to 100,000 x 100,000 matrices
-  ###   - 📐 [Graph Theory](#-graph-theory-) : Graph Modelisation and Complex manipulation 
+  ###   - 📐 [Graph Theory](#-graph-theory-) : Graph Modelisation and Complex manipulation (🚧)  
   ###   - ⚡ [Finite Automata Operations](#-finite-automata-operations-) : Finite Automata Operations
   ###   - 🎲 [Takuzu Grid Generator & Solver](#-takuzu-grid-generator-solver) : A Solver for a Sudoku-like 
   ###   - 📝 [Exquisite Corpse Generator](#-exquisite-corpse-generator-) : Generator and corrector with a database of half a million words
@@ -33,10 +33,12 @@ Welcome to my GitHub profile !
   ###   - 🌴 [From Days to Daze](#-from-days-to-daze-) : A survival card game with cinematics
   ## [Original Projects](#original-projects)
 
-<p align="justify">Innovation drives progress, and I believe that originality is the key to pushing the boundaries of what's possible. By working on unique projects, I challenge myself to think creatively and find solutions that haven't been explored before. For me, it's not just about solving problems—it's about doing so in a way that sparks curiosity, inspires others, and leaves a lasting impact.</p>
+<p align="justify">Innovation drives progress, and I believe that originality is the key to pushing the boundaries of what's possible. By working on unique projects, I challenge myself to think creatively and find solutions that haven't been explored before. For me, it's not just about solving problems, it's about doing so in a way that sparks curiosity, inspires others, and leaves a lasting impact.</p>
   
-  ###   - 📍 BeClean : Majordome 
+  ###   - 📍 BeClean : Project that rank 4th in the french Tech Days contest (🚧)  
   ###   - 📈 [Social Influence Generator and Trend Analyzer](#-social-influence-generator-and-trend-analyzer-) : Selling influence and visibility online
+  ###   - ⏰ Counter : A simple yet not simple counter that works like an everyday toolbox  (🚧)  
+  ###   - 🛡️ Secure ChatRoom: A post-quantum encrypted chatroom ensuring the CIA triad at all times.  (🚧)  
 ## 3. [Certifications](#certifications)
 ## 4. Contact Me
 <p>
@@ -248,7 +250,7 @@ This game features various characteristics and options that make for an engaging
 
 # Original Projects
 
-<p align="justify">Innovation drives progress, and I believe that originality is the key to pushing the boundaries of what's possible. By working on unique projects, I challenge myself to think creatively and find solutions that haven't been explored before. For me, it's not just about solving problems—it's about doing so in a way that sparks curiosity, inspires others, and leaves a lasting impact.</p>
+<p align="justify">Innovation drives progress, and I believe that originality is the key to pushing the boundaries of what's possible. By working on unique projects, I challenge myself to think creatively and find solutions that haven't been explored before. For me, it's not just about solving problems, it's about doing so in a way that sparks curiosity, inspires others, and leaves a lasting impact.</p>
 
 # 📈 Social Influence Generator and Trend Analyzer 📈
 <img src="https://github.com/Datharr/Datharr/blob/main/assets/FA_code.png" alt="Social Influence Generator Code Language" style="width: auto ; height: 45px ; margin-right: 20px; border: 10px solid #888;"/>
@@ -305,7 +307,7 @@ As the social media accounts grow in influence, this include various monetizatio
 - **Direct Sales**: Selling merchandise or digital products directly through social media platforms.
 
 ### The most popular video on this experiment :
-<img src="https://github.com/Datharr/Datharr/blob/main/assets/most_popular_video.png" alt="Image of the first french comedy account's most popular video" style="float: right; width: 700px; height: auto; margin-left: 20px;"/>
+<img src="https://github.com/Datharr/Datharr/blob/main/assets/most_popular_video.png" alt="Image of the first french comedy account's most popular video" style="float: right; width: 850px; height: auto; margin-left: 20px;"/>
 
 ## Challenges and Solutions
 Throughout the project, several challenges were encountered:
