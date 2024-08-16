@@ -1,5 +1,5 @@
 # Hi there! 👋
-This README is updated every 3 hours. Today is Friday, 16 August, 15:40 CEST
+This README is updated every 3 hours. Today is Friday, 16 August, 15:42 CEST
 
 <br>
 
@@ -101,6 +101,10 @@ This README is updated every 3 hours. Today is Friday, 16 August, 15:40 CEST
 # Algorithmics and Optimizations
 
 <p align="justify"> In the fast-paced world we live in, efficiency and time management are paramount. As Albert Einstein once said, “The measure of intelligence is the ability to change.” Through experimenting and making mistakes, I have learned that algorithm design and optimization are not just theoretical concepts but essential components of practical problem-solving. Embracing the challenges of algorithmic thinking and optimization has become an integral part of my life, enabling me to refine my approach to complex problems and deliver solutions that are both innovative and efficient.</p>
+
+<br>
+
+# My Projects 
 
 <br>
 
