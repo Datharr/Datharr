@@ -1,5 +1,5 @@
 # Hi there! 👋
-This README is updated every 3 hours. Today is Friday, 16 August, 15:37 CEST
+This README is updated every 3 hours. Today is Friday, 16 August, 15:40 CEST
 
 <br>
 
@@ -69,7 +69,13 @@ This README is updated every 3 hours. Today is Friday, 16 August, 15:37 CEST
 
 <br>
 
-# 2. [Certifications](#certifications)
+# 2. [Certifications](#certifications) 
+   ###   - Google Cybersecurity Specialization  
+   ###   - Cisco Cybersecurity Essentials
+   ###   - The TOEIC Program : 965
+   ###   - MathLab : Simulink Onramp
+
+<br>
 
 # 3. Contact Me
 <p>
