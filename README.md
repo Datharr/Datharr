@@ -1,5 +1,5 @@
 # Hi there! 👋
-This README is updated every 3 hours. Today is Friday, 16 August, 12:24 CEST
+This README is updated every 3 hours. Today is Friday, 16 August, 12:26 CEST
 
 <p align="justify">Welcome to my GitHub profile! I’m a 21-year-old French developer with a deep passion for cybersecurity. My journey into the world of programming began at a young age, and my fascination with how things work quickly led me to the field of cybersecurity. This specialization allows me to blend my technical expertise with a relentless curiosity about the ever-evolving digital landscape. Whether I’m exploring new security protocols, developing applications, my goal is to contribute to a safer and more secure digital world. Here, you’ll find a collection of my projects that reflect my dedication to continuous learning and my commitment to staying ahead in this fast-paced world. Feel free to explore, collaborate, and reach out to me if you share a similar passion or have any questions about my works.</p>
 
@@ -305,7 +305,7 @@ As the social media accounts grow in influence, this include various monetizatio
 - **Direct Sales**: Selling merchandise or digital products directly through social media platforms.
 
 ### The most popular video on this experiment :
-<img src="https://github.com/Datharr/Datharr/blob/main/assets/account_1_most_popular.png" alt="Image of the first french comedy account's most popular video" style="float: right; width: 700px; height: auto; margin-left: 20px;"/>
+<img src="https://github.com/Datharr/Datharr/blob/main/assets/most_popular_video.png" alt="Image of the first french comedy account's most popular video" style="float: right; width: 700px; height: auto; margin-left: 20px;"/>
 
 ## Challenges and Solutions
 Throughout the project, several challenges were encountered:
