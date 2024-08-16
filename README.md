@@ -1,5 +1,5 @@
 # Hi there! 👋
-This README is updated every 3 hours. Today is Friday, 16 August, 13:15 CEST
+This README is updated every 3 hours. Today is Friday, 16 August, 13:21 CEST
 
 <br>
 
@@ -20,8 +20,6 @@ This README is updated every 3 hours. Today is Friday, 16 August, 13:15 CEST
 
 <p align="justify">In the fast-paced world we live in, efficiency and time management are paramount. Through experimenting and making mistakes, I have learned that algorithm design and optimization are not just theoretical concepts but essential components of practical problem-solving. Embracing the challenges of algorithmic thinking and optimization has become an integral part of my life, enabling me to refine my approach to complex problems and deliver solutions that are both innovative and efficient.</p>
   
-  <br>
-
   ## [Algorithmics & Optimization](#algorithmics-and-optimizations)
   ###   - 🚚 [Operation Research](#-operation-research-advanced-transportation-optimization-): Advanced Transportation Optimization up to 100,000 x 100,000 matrices
   ###   - 📐 Graph Theory : Graph Modelisation and Complex manipulation (🚧)  
