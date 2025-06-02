@@ -4,7 +4,7 @@ This README is updated every 3 hours. Today is Monday, 3 March, 07:19 CET
 <br>
 
 
-<p align="justify">Welcome to my GitHub profile! I’m Mathieu, a 21-year-old French Master's student in Cybersecurity at EFREI Paris. My programming journey began early, driven by a fascination with how things work, which naturally led me to cybersecurity. This field lets me combine technical expertise with a deep curiosity about the digital world. My goal is to contribute to a safer, more secure digital space. Here, you’ll find projects that reflect my commitment to learning and staying ahead in this dynamic field. Feel free to explore, collaborate, or reach out if you share a similar passion or have any questions about my work.</p>
+<p align="justify">Welcome to my GitHub profile! I’m Mathieu, a 21-year-old French Master's student. My programming journey began early, driven by a fascination with how things work, which naturally led me to cybersecurity. This field lets me combine technical expertise with a deep curiosity about the digital world. My goal is to contribute to a safer, more secure digital space. Here, you’ll find projects that reflect my commitment to learning and staying ahead in this dynamic field. Feel free to explore, collaborate, or reach out if you share a similar passion or have any questions about my work.</p>
 
 
 
