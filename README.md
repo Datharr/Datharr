@@ -1,7 +1,10 @@
 # Hi there! 👋
 <br>
 
-<p align="justify">Welcome to my GitHub profile, I’m Mathieu Roche, a Cybersecurity GRC Engineer with a strong technical foundation in network security, risk management, and applied cyber research. My programming journey began early, driven by a fascination with how things work, which naturally led me to cybersecurity. This field lets me combine technical expertise with a deep curiosity about the digital world. My goal is to contribute to a safer, more secure digital space. Here, you’ll find projects that reflect my commitment to learning and staying ahead in this dynamic field. Feel free to explore, collaborate, or reach out if you share a similar passion or have any questions about my work.</p>
+<p align="justify">Welcome to my GitHub profile, I’m Mathieu Roche, a Cybersecurity GRC Engineer with a strong technical foundation in network security, risk management, and applied cyber research. 
+  
+ <br> 
+  My programming journey began early, driven by a fascination with how things work, which naturally led me to cybersecurity. This field lets me combine technical expertise with a deep curiosity about the digital world. My goal is to contribute to a safer, more secure digital space. Here, you’ll find projects that reflect my commitment to learning and staying ahead in this dynamic field. Feel free to explore, collaborate, or reach out if you share a similar passion or have any questions about my work.</p>
 
 
 
