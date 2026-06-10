@@ -70,10 +70,11 @@
 <br>
 
 # 2. [Certifications](#certifications) 
+   ###   - PECB ISO/IEC 27001 Implementer
+   ###   - Cisco Certified Network Associate - CCNA 200-301
+   ###   - CompTIA Security+
    ###   - Google Cybersecurity Specialization  
-   ###   - Cisco Cybersecurity Essentials
    ###   - The TOEIC Program : 965
-   ###   - MathLab : Simulink Onramp
 
 <br>
 
