@@ -1,10 +1,13 @@
-# Hi there! 👋
+#Cybersecurity Consultant @Wavestone
 <br>
 
-<p align="justify">Welcome to my GitHub profile, I’m Mathieu Roche, a Cybersecurity GRC Engineer with a strong technical foundation in network security, risk management, and applied cyber research. 
+<p align="justify">Cybersecurity Consultant with a strong technical background in security, networking and software engineering.
+Currently working at Wavestone, with interests spanning cybersecurity governance, security engineering, risk management and applied security research.
   
  <br> 
-  My programming journey began early, driven by a fascination with how things work, which naturally led me to cybersecurity. This field lets me combine technical expertise with a deep curiosity about the digital world. My goal is to contribute to a safer, more secure digital space. Here, you’ll find projects that reflect my commitment to learning and staying ahead in this dynamic field. Feel free to explore, collaborate, or reach out if you share a similar passion or have any questions about my work.</p>
+ CISA · ISO/IEC 27001 Implementer · CCNA · Security+
+
+Selected projects below focus on cybersecurity, automation and technical problem-solving.</p>
 
 
 
@@ -15,17 +18,10 @@
 <br>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![VUE.JS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-F6820D?style=for-the-badge&logo=firebase&logoColor=black)
@@ -393,13 +389,6 @@ Throughout the project, several challenges were encountered:
 <p align="justify">This project demonstrates the potential of combining automation with data-driven insights to build and monetize social media influence at scale. The success achieved in just 30 days underscores the effectiveness of the approach and opens up exciting possibilities for further development and expansion.</p>
 
 <br>
-
-# Certifications
-
-<img src="https://github.com/Datharr/Datharr/blob/main/assets/google_cybersecurity.png" alt="Google Cybersecurity Specialization" style="float: right; width: 450px; height: auto; margin-left: 20px;"/>
-<img src="https://github.com/Datharr/Datharr/blob/main/assets/cisco_cybersecurity.png" alt="Cisco Cybersecurity" style="float: right; width: 450px; height: auto; margin-left: 20px;"/>
-<img src="https://github.com/Datharr/Datharr/blob/main/assets/toeic.png" alt="TOEIC 965" style="float: right; width: 450px; height: auto; margin-left: 20px;"/>
-<img src="https://github.com/Datharr/Datharr/blob/main/assets/matlab_onramp.png" alt="Matlab" style="float: right; width: 450px; height: auto; margin-left: 20px;"/>
 
 <br>
 
