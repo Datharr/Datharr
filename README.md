@@ -1,4 +1,4 @@
-#Cybersecurity Consultant @Wavestone
+# Cybersecurity Consultant @Wavestone
 <br>
 
 <p align="justify">Cybersecurity Consultant with a strong technical background in security, networking and software engineering.
