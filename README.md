@@ -43,6 +43,15 @@ Selected projects below focus on cybersecurity, automation and technical problem
 
   <br>
 
+  ## [Original Projects](#original-projects)
+
+<p align="justify">Innovation drives progress, and I believe that originality is the key to pushing the boundaries of what's possible. By working on unique projects, I challenge myself to think creatively and find solutions that haven't been explored before. For me, it's not just about solving problems, it's about doing so in a way that sparks curiosity, inspires others, and leaves a lasting impact.</p>
+  
+  ###   - 📍 BeClean : Project that rank 4th in the french Tech Days contest (🚧)  
+  ###   - 📈 [Social Influence Generator and Trend Analyzer](#-social-influence-generator-and-trend-analyzer-) : Selling influence and visibility online
+  ###   - ⏰ Counter : A simple yet not simple counter that works like an everyday toolbox  (🚧)  
+  ###   - 🛡️ Secure ChatRoom: A post-quantum encrypted chatroom ensuring the CIA triad at all times.  (🚧)  
+
   ## [Game Projects](#game-projects) 
 
 <p align="justify">I started coding video games at the age of 9, and this avenue has been a straightforward way for me to express my creativity and logic in a fun and engaging manner. Developing games has allowed me to combine my passion for programming with my desire to create interactive experiences. As I’ve grown, so have my standards and skills, pushing me to build increasingly sophisticated and polished projects.</p>
@@ -54,22 +63,14 @@ Selected projects below focus on cybersecurity, automation and technical problem
 
   <br>
 
-  ## [Original Projects](#original-projects)
-
-<p align="justify">Innovation drives progress, and I believe that originality is the key to pushing the boundaries of what's possible. By working on unique projects, I challenge myself to think creatively and find solutions that haven't been explored before. For me, it's not just about solving problems, it's about doing so in a way that sparks curiosity, inspires others, and leaves a lasting impact.</p>
-  
-  ###   - 📍 BeClean : Project that rank 4th in the french Tech Days contest (🚧)  
-  ###   - 📈 [Social Influence Generator and Trend Analyzer](#-social-influence-generator-and-trend-analyzer-) : Selling influence and visibility online
-  ###   - ⏰ Counter : A simple yet not simple counter that works like an everyday toolbox  (🚧)  
-  ###   - 🛡️ Secure ChatRoom: A post-quantum encrypted chatroom ensuring the CIA triad at all times.  (🚧)  
 
 <br>
 
 # 2. [Certifications](#certifications) 
+   ###   - CISA
    ###   - PECB ISO/IEC 27001 Implementer
-   ###   - Cisco Certified Network Associate - CCNA 200-301
+   ###   - CCNA 200-301 - Cisco Certified Network Associate
    ###   - CompTIA Security+
-   ###   - Google Cybersecurity Specialization  
    ###   - The TOEIC Program : 965
 
 <br>
@@ -88,9 +89,7 @@ Selected projects below focus on cybersecurity, automation and technical problem
   <a href="mailto:mathieu.roche@efrei.net" target="_blank">
     <img alt="Outlook" src="https://img.shields.io/badge/Outlook-%230077B5.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
-   <a href="https://github.com/Datharr/Datharr/blob/main/assets/CV.pdf" target="_blank">
-    <img alt="CV" src="https://img.shields.io/badge/CV-%23000000.svg?&style=for-the-badge&logo=resume&logoColor=white" />
-  </a>
+  
 </p>
 
 <br>
